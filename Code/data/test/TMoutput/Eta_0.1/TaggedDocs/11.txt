@@ -1,0 +1,710 @@
+Topic 0: awkwardly_1 lying_0 bed_0 contractors_0 measure_0 dimensions_1 bunk_1 #PB#RT 
+Topic 0: jewish_1 year_0 hard_0 quit_0 jewish_1 58th_1 century_1 back_0 21st_0 century_1 #PB#RT 
+Topic 1: ivy_1 gold_0 acoustic_1 bombay_1 bicycle_1 club_0 #PB#PO 
+Topic 4: walao_0 thought_0 hardcore_0 paper_0 #PB#RE 
+Topic 4: omg_1 typing_1 forgetting_0 send_0 texts_1 recently_0 #PB#PO 
+Topic 0: camo_1 ruins_1 everyone's_0 day_1 #PB#PO 
+Topic 2: promised_0 foundation_0 term_1 field_1 camp_1 #PB#RE 
+Topic 4: overdue_1 cinderella_1 twitter_0 man_0 #PB#PO 
+Topic 4: kris_0 boy_1 scandalous_1 #PB#RE 
+Topic 4: didnt_0 reply_1 o.o_0 #PB#RE 
+Topic 0: change_1 back_0 cover_0 front_0 camera_0 #PB#RE 
+Topic 4: call_1 proper_1 introduction_1 #PB#PO 
+Topic 0: heinz_1 replace_0 traditional_1 rectangular_1 ketchup_1 packets_0 design_0 dip_1 squeeze_0 #PB#RT 
+Topic 2: theme_0 song_1 day_1 cassius_1 foals_1 #PB#PO 
+Topic 4: sergeant_1 major_0 scares_1 #PB#PO 
+Topic 4: meowth_1 pie_0 #PB#RE 
+Topic 2: sry_1 thing_1 fight_0 death_0 #PB#RE 
+Topic 2: yea_0 reading_0 lyrics_0 emo_1 songs_1 #PB#RE 
+Topic 4: reply_1 spasm_1 thing_1 people_1 eyes_0 #PB#RE 
+Topic 4: huh_0 happened_1 assume_0 #PB#RE 
+Topic 4: falling_1 asle-_0 zzz_0 zzz_0 zzz_0 #PB#PO 
+Topic 4: test_0 thing_1 eating_0 afternoon_0 nap_0 time_1 #PB#PO 
+Topic 0: bright_0 side_0 mum_0 pack_1 table_0 neatly_1 #PB#RE 
+Topic 1: table_0 messier_1 mine_0 #PB#RE 
+Topic 0: saf_0 wasting_0 time_1 usual_0 #PB#PO 
+Topic 4: shouldnt_1 studying_0 dear_0 lady_1 #PB#RE 
+Topic 4: odd_1 pages_0 shouldn't_1 hard_1 #PB#RE 
+Topic 4: finish_0 skippy_1 dies_0 tonight_0 #PB#RE 
+Topic 0: fun_0 nowadays_0 stuck_0 rut_1 #PB#RE 
+Topic 4: finish_0 skippy_1 dies_0 tonight_0 #PB#PO 
+Topic 4: short_0 time_1 elapsed_1 #PB#RE 
+Topic 2: book_0 hours_1 early_0 #PB#PO 
+Topic 4: love_1 time_1 love_1 express_0 giant_1 adoration_1 hold_1 #PB#PO 
+Topic 0: #gemini_1 people_1 notice_0 finishing_0 started_0 #PB#RT 
+Topic 0: clay_1 pot_1 rice_0 heal_1 sore_0 throat_0 cold_1 symptoms_0 #PB#PO 
+Topic 4: stop_1 introducing_1 music_0 #PB#RE 
+Topic 0: cola_1 flavoured_0 stickies_1 #somethingtodiefor_1 #PB#PO 
+Topic 2: nokia_1 lumia_1 reminds_1 colourful_1 ipod_0 nano_1 circa_1 #PB#PO 
+Topic 4: forgot_0 lock_0 shower_0 door_0 showering_0 #PB#PO 
+Topic 2: left_0 pt_1 shoes_0 home_0 kinda_0 major-ly_1 fucked_0 feeling_0 homesick_1 #PB#PO 
+Topic 4: replying_0 texts_1 vogue_1 friends_0 #PB#RT 
+Topic 3: mmm_1 crisp_1 white_0 shirt_0 #PB#PO 
+Topic 1: sat_0 sat_0 sat_0 sat_0 sat_0 #PB#RE 
+Topic 4: yup_0 yup_0 life's_1 good_1 one's_1 love_1 #PB#RE 
+Topic 0: back_0 home_0 bed_0 felt_0 good_0 #PB#PO 
+Topic 0: police_0 elderly_1 man_0 signed_0 nursing_1 home_0 visitor_1 shot_0 wife_0 turning_1 gun_0 #PB#RE 
+Topic 4: amazing_0 desserts_0 edward_1 #PB#RT 
+Topic 2: ns_1 kills_1 grammar_0 #PB#RE 
+Topic 4: yea_1 justice_1 fucking_1 awesome_0 #PB#RE 
+Topic 1: stuart's_1 phone_0 number_0 #PB#RE 
+Topic 0: walk_0 bedok_1 mrt_1 #PB#RE 
+Topic 1: stuart's_1 house_0 ah_0 #PB#RE 
+Topic 0: eliott_1 walk_0 pasir_1 ris_1 #PB#RE 
+Topic 4: walking_0 aimlessly_1 nus_1 #PB#ME 
+Topic 3: sbs_1 smrt_0 fined_1 quality_1 service_1 lapses_1 public_1 transport_0 council_0 dishing_0 hurt_0 #PB#RT 
+Topic 1: eh_0 house_0 weird_0 noises_1 #PB#RE 
+Topic 4: draw_0 arms_0 back_0 sleep_1 ungodly_0 hour_0 make_1 sergeant_1 smell_0 morning_0 breath_1 #PB#PO 
+Topic 4: fucking_1 lazy_0 guy_1 section_0 sleeps_1 dont_1 contribute_1 section_0 #PB#RT 
+Topic 2: add_0 point_0 fuck_0 kenneth_1 lazy_0 motherfucking_1 cunt_0 nugget_0 wanna_0 slack_1 #PB#RT 
+Topic 4: forgot_0 include_0 fuck_0 wai_1 teletubby_1 fuck_1 #PB#RT 
+Topic 2: dude_1 spend_0 time_1 tumblr_0 dota_1 #PB#RE 
+Topic 4: pap_0 diss_1 justin_1 dear_0 paps_1 walk_0 calm_0 decide_0 kick_1 punch_1 #PB#RT 
+Topic 4: love_1 love_1 show_0 #PB#PO 
+Topic 2: permanently_1 black_0 blue_1 permanently_1 blue_0 #PB#PO 
+Topic 4: trade_1 reds_1 shit_1 #PB#PO 
+Topic 0: text_1 gotta_0 ration_1 battery_1 #PB#RE 
+Topic 4: weird_1 shit_1 reds_1 #PB#PO 
+Topic 3: bring_0 feist_1 m83_1 gonna_0 cry_0 girls_0 toro_1 moi_1 #PB#RT 
+Topic 2: money-saving_1 mode_0 month_0 #PB#PO 
+Topic 1: awol_1 lah_1 thinking_0 #PB#RE 
+Topic 0: yeah_0 carnage_1 kfc_1 takeaway_0 box_1 #PB#PO 
+Topic 0: running_0 demons_1 hide_0 #PB#PO 
+Topic 3: fuck_0 goh_0 king_1 lee_1 #PB#RT 
+Topic 4: lady_1 lubricant_1 guardian_0 #PB#PO 
+Topic 2: blue_0 blazing_1 world_0 bus_1 heading_0 #PB#PO 
+Topic 2: realised_1 haven't_0 touched_0 correction_1 tape_1 j1_1 #imacancellingguy_1 #PB#PO 
+Topic 4: people_1 table_0 totally_0 pay_0 bucks_0 clarify_1 queries_1 org_0 chem_0 competent_1 area_0 #PB#PO 
+Topic 1: wait_0 poor_0 children_0 refer_0 financially_1 poor_0 #PB#RE 
+Topic 4: happy_1 people_1 studying_0 levels_1 coffee_1 bean_1 #PB#PO 
+Topic 4: day_1 rude_0 huh_0 someone's_1 facebook_0 status_1 #PB#PO 
+Topic 2: busy_0 busy_0 day_1 #PB#PO 
+Topic 0: dad_0 home_0 walking_0 atm_1 #PB#PO 
+Topic 2: knew_0 dude_1 wanted_1 srsly_0 sme_1 thought_0 back_0 bmt_1 #PB#RE 
+Topic 0: im_0 cheap_0 sold_1 ass_0 #PB#RT 
+Topic 0: wtf_0 sausage_1 mcmuffin_1 egg_0 #PB#RE 
+Topic 4: pay_0 day_1 week_0 #PB#RE 
+Topic 0: wtf_0 guy_0 saunters_1 mcd_1 asks_1 sme_1 meal_0 #PB#PO 
+Topic 2: eat_0 carl's_1 junior_0 tonight_0 account_0 #PB#PO 
+Topic 4: sex_0 cult_1 records_0 coolest_1 artist_0 names_0 #PB#PO 
+Topic 4: ch_0 tang_1 ah_0 rofl_1 #PB#RE 
+Topic 1: tonight_0 ak_0 tang_1 #PB#RE 
+Topic 0: wtf_0 liang_0 cha_1 bitter_1 die_0 #PB#PO 
+Topic 4: heart_1 attack_1 kills_1 man_0 save_0 heart_1 attack_0 victim_1 #PB#RT 
+Topic 3: year_0 hold_1 halloween_0 party_1 #PB#RE 
+Topic 4: good_1 roll_1 dice_1 meant_1 #PB#PO 
+Topic 0: bedok_1 reservoir_1 roll_1 #PB#PO 
+Topic 4: explosive_1 sex_0 game_1 man_0 risks_1 charges_1 wtffff_0 #PB#PO 
+Topic 4: #4wordsbeforesex_1 siri_0 ready_0 #PB#RT 
+Topic 3: #liesthatalwaysworked_1 pay_0 pay_0 back_0 salary_1 months_0 pass_0 payment_1 #PB#RT 
+Topic 1: week_0 gonna_0 thick_1 skinned_0 dad_0 money_0 #PB#RE 
+Topic 1: bring_0 wallet_0 money_0 spend_0 whatsoever_0 #PB#PO 
+Topic 4: week_0 financial_0 ruin_1 #PB#PO 
+Topic 0: guardsman_1 chevron_0 stripe_1 #PB#PO 
+Topic 2: havent_1 smoked_0 week_1 proudface_1 #PB#RE 
+Topic 4: damn_0 bored_0 smoke_1 #PB#PO 
+Topic 3: bond_1 yield_1 hits_0 historic_1 low_0 #PB#ME 
+Topic 4: roll_1 roll_1 roll_1 roll_1 bed_0 #PB#PO 
+Topic 3: missing_0 good_1 company_0 #PB#RE 
+Topic 3: back_0 fighting_0 wars_1 #PB#RE 
+Topic 4: damn_0 nuaaaaa_1 put_0 bedsheets_1 #PB#PO 
+Topic 2: i'd_0 swallow_1 heartbeat_1 #PB#RE 
+Topic 4: typo_0 retards_0 end_0 emails_1 #PB#RE 
+Topic 4: turns_0 close_0 keyboard_1 day_1 ending_0 emails_1 #PB#RT 
+Topic 4: 10-year-old_1 pulls_0 gun_0 woman_0 joked_0 she'd_0 steal_1 #halloween_0 candy_1 #PB#RT 
+Topic 4: scissors_1 paper_0 stone_1 loser_0 sign_0 #PB#RE 
+Topic 1: dun_1 cui_0 leh_0 xi_1 ji_0 team_1 finish_0 quest_1 #PB#RT 
+Topic 0: aos_1 0km_1 fall_0 #PB#PO 
+Topic 0: 4km_0 8km_1 12km_1 16km_0 20km_1 24km_1 28km_1 32km_0 #PB#RT 
+Topic 4: guys_1 let's_0 bet_1 fall_1 click_0 bookie_0 #PB#RE 
+Topic 1: fuckiiiiinnngggg_1 lazy_0 lah_1 #PB#RE 
+Topic 0: cwo_1 unwilling_1 tiny_0 afternoon_1 nap_0 #PB#PO 
+Topic 4: sleeping_1 fucking_1 sleepingbeauty_1 #PB#RT 
+Topic 2: longest_0 distance_0 walk_0 32km_0 let's_0 #PB#PO 
+Topic 0: mobile_0 device_0 retail_1 traffic_0 double_0 november_0 holiday_1 season_0 #PB#RT 
+Topic 0: reason_0 taking_0 taxi_1 peace_0 #ivealwayswantedto_1 driver_0 shut_0 drive_1 #PB#PO 
+Topic 0: paranormal_0 activity_0 filmed_1 singapore_1 wait_0 bedok_1 reservoir_1 #badsgjokes_1 #PB#PO 
+Topic 2: yay_0 hours_1 till_0 time_1 leave_0 #PB#PO 
+Topic 2: change_0 ur_1 hairdresser_1 #PB#RE 
+Topic 0: making_0 chef_0 pang's_0 list_0 cakes_1 alr_1 bored_0 eaten_1 cakes_1 canele_1 antoinette's_1 selection_1 #PB#PO 
+Topic 3: blog_0 fun_0 uniqgift's_1 hands-on_1 experience_0 redeem_1 dance_1 cooking_0 art_0 design_0 workshop_1 #PB#RT 
+Topic 2: oops_1 bt_1 comment_0 knw_1 wanted_1 edit_0 comment_0 aft_1 ur_1 tweet_1 you've_0 moderated_0 alr_0 #PB#RE 
+Topic 0: mau_1 thought_0 coming_0 find_0 paris_0 find_0 finche_0 ave_1 house_1 #PB#RE 
+Topic 2: otw_1 slut_0 tp_0 #PB#RE 
+Topic 0: bon_1 voyage_1 joker_0 #PB#RE 
+Topic 4: money_0 buy_0 fucking_1 lied_0 la_1 #PB#PO 
+Topic 4: heart_1 lies_0 thousand_1 words_1 express_0 #PB#PO 
+Topic 2: serve_1 bowl_0 fuck_0 long_0 board_0 jk_0 #PB#RE 
+Topic 2: play_0 super_0 soaker_1 cum_1 la_0 #PB#RE 
+Topic 1: cb_0 bombay_1 bicycle_1 club_0 #PB#RE 
+Topic 0: eh_1 peace_0 yidian_0 leh_1 #PB#RE 
+Topic 4: smlj_1 listen_0 times_0 #PB#RE 
+Topic 4: eh_0 uh_0 steal_1 genre_1 #PB#RE 
+Topic 4: lights_0 words_1 #bombaybicycleclub_1 #PB#PO 
+Topic 4: special_0 fucking_1 special_0 #PB#PO 
+Topic 0: buy_0 house_1 nerf_0 exhibition_1 #PB#RE 
+Topic 4: love_1 beautiful_1 couples_1 #PB#RT 
+Topic 4: hahhaa_0 fuck_1 awshen_1 #PB#RE 
+Topic 4: i'd_0 walk_0 thousand_1 miles_1 tonight_0 #really_1 #PB#PO 
+Topic 2: supersoaker_0 shoot_0 cum_1 isit_1 #PB#RE 
+Topic 4: bullet_0 dont_1 supersoaker_0 #PB#RE 
+Topic 0: #blameiton_1 aw_0 shen_1 #PB#RE 
+Topic 1: diana_1 f+_1 holga_0 throw/keep/sell_1 #PB#PO 
+Topic 2: yeap_1 im_1 moving_0 stuffs_0 back_0 sg_0 #PB#RE 
+Topic 4: dyou_0 lets_0 nerf_0 war_1 #PB#RE 
+Topic 2: letters_0 packed_0 box_1 gonna_1 read_0 im_1 show_0 kids_1 #PB#PO 
+Topic 4: packing_0 nerf_0 guns_1 throw/keep_1 #PB#PO 
+Topic 3: here's_1 dog_0 include_0 sounds_0 good_1 #PB#RE 
+Topic 0: aw_0 shen_1 mind=blown_1 mafaka_1 #PB#RE 
+Topic 4: read_1 response_1 vans_0 colour_1 shoe_1 size_1 fucking_1 stargaze_1 thoms_1 #PB#PO 
+Topic 0: bout_1 cup_1 fuck_1 aw_0 shen_1 #PB#RE 
+Topic 4: deleted_0 guys_1 calm_0 yo_0 tities_1 #PB#RE 
+Topic 4: nicest_1 people_1 saddest_1 #PB#RT 
+Topic 4: expected_1 cab_0 coming_0 minutes_0 shit_1 haven't_0 bathe_0 omg_0 omg_1 omg_1 omg_1 omg_1 #PB#RT 
+Topic 0: bon_1 voyage_1 brother_1 time_1 safe_0 flight_0 care_0 plane_0 #PB#ME 
+Topic 2: staples_0 center_0 store_0 #PB#RE 
+Topic 1: suannn_1 arms_0 folded_1 wide_0 smile_0 duh_0 #PB#RE 
+Topic 0: bo_1 jio_1 tag_1 tanking_1 night_0 #PB#ME 
+Topic 4: damn_0 envious_1 snap_0 pics_0 la_1 night_0 life_0 aight_0 #PB#RE 
+Topic 2: tanker_0 wee_1 tank_0 rly_1 enjoy_0 usa_0 ya_1 #PB#RE 
+Topic 4: love_1 smell_1 rain_1 #PB#PO 
+Topic 4: uh_0 uh_0 sleeping_1 #PB#RE 
+Topic 1: david_0 beckham_1 inside_0 #PB#RE 
+Topic 4: bright_0 side_0 life_1 #PB#PO 
+Topic 2: nt_1 back_0 im_1 gona_1 chances_0 #PB#PO 
+Topic 4: realized_0 dinner_0 famished_0 #PB#PO 
+Topic 3: late_0 night_0 movie_0 bed_0 rain_1 blanket_1 #PB#PO 
+Topic 4: falling_1 asleep_1 sound_1 rain_1 #PB#RT 
+Topic 2: wtf_0 guys_1 im_1 barely_0 level_0 #PB#RE 
+Topic 1: 600k_1 zzz_0 million_0 #PB#RE 
+Topic 1: suan_0 mau_1 tay_0 #PB#RE 
+Topic 2: feel_1 damn_0 demoralized_1 time_1 die_0 temple_0 run_0 z.z_0 #PB#RE 
+Topic 0: safe_0 flight_0 tomorrow_1 enjoy_0 time_0 party_0 usa_0 bro_0 bon_1 voyage_1 #PB#ME 
+Topic 2: fuck_0 temple_0 run_1 cb_0 #PB#PO 
+Topic 4: sian_0 joker_0 twitter_0 anymore_1 step_0 time_1 #PB#RE 
+Topic 0: leaving_0 hours_0 time_0 #PB#RE 
+Topic 3: n00b_1 temple_0 runners_1 im_1 gonna_0 break_0 high_0 score_0 #PB#PO 
+Topic 3: im_1 confide_1 god_0 solution_0 #PB#RE 
+Topic 1: hahha_0 jap_1 watching_0 im_0 trafford_1 #PB#RE 
+Topic 4: fuck_1 auto_0 correct_0 #PB#RE 
+Topic 4: mine_1 bones_1 lolol_0 #PB#RE 
+Topic 0: tryna_0 muscles_1 hard_0 jkjk_1 #PB#RE 
+Topic 1: cardiology_0 goooood_1 download_0 chronicles_1 life_0 death_0 album_0 #PB#RE 
+Topic 4: s.o.s_1 album_0 dyou_0 #PB#RE 
+Topic 2: flatter_1 im_1 talking_1 benjamin_1 macchiato_1 #PB#RE 
+Topic 2: chill_0 worked_0 ben_1 joker_0 #PB#RE 
+Topic 4: happened_1 angstyboi_1 exhale_0 hate_1 #PB#RE 
+Topic 0: chill_0 yidian_0 darkmao_1 #PB#RE 
+Topic 2: zhong_1 zhong_1 guo_0 #PB#ME 
+Topic 1: ht_1 real_0 madrid_1 osasuna_1 cristiano_0 pepe_1 higuain_1 ibrahima_1 #PB#RT 
+Topic 1: descanso_1 half-time_1 osasuna_1 pepe_1 higuain_1 ibrahima_1 #realmadrid_1 #osasuna_1 #PB#RT 
+Topic 0: gooooool_1 golaaaaaazo_1 de_1 gonaaaaalo_1 higuaaaaain_0 #PB#RT 
+Topic 1: osasuna_1 pepe_1 higuain_1 ibrahima_1 #realmadrid_1 #osasuna_1 #PB#RT 
+Topic 1: osasuna_1 pepe_1 ibrahima_1 #realmadrid_1 #osasuna_1 #PB#RT 
+Topic 1: osasuna_1 ibrahima_1 #realmadrid_1 #osasuna_1 #PB#RT 
+Topic 1: osasuna_1 #realmadrid_1 #osasuna_1 #PB#RT 
+Topic 0: goooooooool_1 de_1 cristiaaaaano_1 ronaaaaldo_1 #PB#RT 
+Topic 0: real_0 madrid's_0 cristiano_0 ronaldo_1 hails_1 manchester_1 united_0 boss_0 sir_1 alex_0 ferguson_1 world_0 #PB#PO 
+Topic 4: playing_1 soccer_0 tmr_1 #PB#PO 
+Topic 1: die_0 gg_0 habis_1 #PB#PO 
+Topic 4: nice_0 psp_1 game_0 introduce_0 #PB#PO 
+Topic 4: year_0 daughter_0 asked_0 holes_0 nose_1 bro_0 quickly_0 breath_1 #PB#RT 
+Topic 2: nvm_0 nt_1 gg_0 play_0 #PB#PO 
+Topic 2: playing_1 playshot_1 today_1 beginner_0 #PB#PO 
+Topic 2: gety_1 ass_0 bed_0 bath_0 back_0 fifa_1 #PB#PO 
+Topic 4: ya_1 dono_1 helps_0 #PB#RE 
+Topic 0: goal_0 celebration_1 ma_0 #PB#RE 
+Topic 0: jaha_1 mr_0 iskanda_1 open_0 nid_1 key_0 guardpost_0 #PB#RE 
+Topic 2: tuesday_0 noe_0 playing_1 street_0 soccer_0 sch_0 rite_0 #PB#RE 
+Topic 2: play_0 fifa_1 helps_0 #PB#RE 
+Topic 4: wow_0 time_1 wake_0 #PB#PO 
+Topic 4: onside_1 la_0 stupid_1 #PB#PO 
+Topic 2: fire_0 sia_0 ur_1 fire_0 extinguiser_1 cool_1 jk_0 #PB#RE 
+Topic 3: van_0 sie_1 win_1 golden_1 boot_1 tis_1 season_0 #PB#PO 
+Topic 0: people_1 drink_0 water_0 drink_0 petrol_1 jk_0 #PB#RE 
+Topic 4: yeah_1 clean_1 sheet_1 #PB#PO 
+Topic 1: ala_1 screw_0 torres_1 la_0 miss_0 open_0 goal_0 #PB#PO 
+Topic 2: cech_1 double_0 save_0 #PB#PO 
+Topic 3: lampard_1 goal_0 brilliant_0 ivanovic_1 #PB#RT 
+Topic 3: bloody_0 hell_0 solo_1 concert_1 ar_1 wif_1 game_0 man_0 #PB#PO 
+Topic 4: newcastle_1 remains_1 unbeaten_0 #PB#PO 
+Topic 1: cmf_1 november_0 cage_1 rite_0 #PB#RE 
+Topic 1: date_0 haven_0 cmf_1 #PB#RE 
+Topic 2: krul_1 damn_1 gd_1 la_0 sia_0 #PB#PO 
+Topic 4: yeah_0 hope_0 man_0 utd_1 lose_1 #PB#RE 
+Topic 4: newcastle_1 utd_1 wil_0 win_1 rite_0 #PB#ME 
+Topic 4: facebook_0 status_0 update_0 everyday_0 thing_1 #PB#PO 
+Topic 2: detective_1 dramas_1 hongkong_1 nice~_1 #PB#PO 
+Topic 4: back_0 sleep_1 mum_0 called_0 #PB#PO 
+Topic 4: nonono_0 needa_1 haircut_0 #PB#PO 
+Topic 4: weird_1 meant_1 environment_1 #PB#RE 
+Topic 3: sist_0 watching_0 drama_1 held_1 hand_0 sudden_0 drama_1 horror_0 movie_0 #PB#PO 
+Topic 0: yay_0 jumping_1 excitedly_0 collecting_0 alice_1 poster_0 week_0 #PB#PO 
+Topic 4: gonna_1 kill_0 people_1 call_1 morning_0 annoying_1 knoww_1 #PB#PO 
+Topic 2: trends_1 things_1 everyday_0 #PB#PO 
+Topic 4: tweeting_0 nobody's_1 business_0 #PB#PO 
+Topic 0: hope_0 today_1 won't_0 velly_1 #PB#PO 
+Topic 4: finally_1 choose_0 aoi's_0 picto_0 background_0 wanted_0 put_0 uruha's_1 file_1 big_1 yo_0 #PB#PO 
+Topic 0: interested_0 eh_1 filth_1 beauty_0 let's_0 support_0 #PB#RE 
+Topic 3: life_0 kpop_1 stop_0 releasing_1 japan_1 push_0 japanese_0 idols_1 oricon_1 #PB#RT 
+Topic 0: wanna_0 watch_0 wondering_0 rated_1 #PB#PO 
+Topic 4: spend_0 time_0 facebook_1 sick_0 facebook_0 sjsa_1 #PB#PO 
+Topic 2: versailles_1 songs_1 sounds_0 dramatic_1 love_1 #PB#PO 
+Topic 0: foreigners_0 residential_1 area_0 group_0 people_0 rioting_1 #PB#PO 
+Topic 4: real_1 woman_0 perfect_1 perfect_1 woman_0 real_1 #PB#RT 
+Topic 4: light_0 lamp_0 brighten_1 path_1 -buddhist_0 #PB#RT 
+Topic 4: hate_1 stay_1 home_0 tend_1 lot_1 ended_0 overwhelmed_0 thoug_1 #PB#RT 
+Topic 2: fun_1 sweet_0 cheeks_1 home_0 #PB#RT 
+Topic 4: curlz_1 straight_0 hair_0 #PB#PO 
+Topic 1: selamat_1 hari_1 raya_1 #PB#PO 
+Topic 1: tertido_1 whatsapp_0 today_0 #PB#RE 
+Topic 1: ko_1 diam_1 ko_1 gi_1 tido_1 sudah_1 babi_1 #PB#RE 
+Topic 1: pikir_1 aku_1 apa_1 kambing_0 #PB#RE 
+Topic 1: texting_0 si_1 bengap_0 ni_1 kita_1 dua_1 takde_1 kerja_1 #PB#RT 
+Topic 2: shadap_0 dont_1 sara_1 shadap_0 dont_1 ur_1 opinion_0 hmph_0 #PB#RE 
+Topic 2: sara_1 gorgeous_0 person_0 alive_0 blinded_1 beauty_0 guess_0 #PB#PO 
+Topic 4: #1dfact_1 niall_0 big_0 fat_1 idiot_0 runs_0 sign_0 falls_0 harry_1 camera_0 louis_1 pleeasssse_1 tel_1 #PB#RT 
+Topic 4: zayner_1 paynette_1 20%tomlinsters_1 stylator_1 nialler_1 directioner_1 #PB#RT 
+Topic 2: #zaynfact_1 thing_1 direction_1 zayn_1 free_1 clothes_0 love_1 #PB#RT 
+Topic 2: #liamfact_1 thing_1 direction_1 liam_1 dull_1 moment_1 #PB#RT 
+Topic 4: #louisfact_1 thing_1 direction_0 louis_1 laugh_1 made_1 friends_1 #PB#RT 
+Topic 4: #harryfact_1 thing_1 direction_0 harry_1 lads_1 #sweet_1 #PB#RT 
+Topic 2: #1dfact_1 liam_1 shot_0 dive_1 louis_1 slap_1 liam_1 end_0 #PB#RT 
+Topic 2: #1dfacts_0 liam_1 smart_0 niall_0 funny_1 zayn_1 vain_0 harry_0 flirt_1 louis_1 #PB#RT 
+Topic 4: #1dfact_1 zayn_0 boys_0 louis_1 worst_1 drawing_0 lol_1 #PB#RT 
+Topic 4: #1dfact_1 harry_1 niall_0 hugs_1 hug_0 nialll_1 #PB#RT 
+Topic 2: #1dfacts_0 niall_0 goldfish_1 called_0 tom_0 jerry_1 died_1 brother_0 fed_1 #PB#RT 
+Topic 4: #1dfact_1 zayn_0 girl_1 fall_1 love_1 zayn_0 introduce_0 #PB#RT 
+Topic 2: #1dfact_1 wanted_1 brother_0 -liam_1 payne_1 #PB#RT 
+Topic 4: #1dfacts_0 niall_0 met_1 michael_1 buble_0 time_0 holding_0 liam's_1 hand_1 time_1 nervous_0 #PB#RT 
+Topic 2: #1dfact_1 harry_0 louis_1 give_0 fan_1 real_1 kiss_0 love_1 give_0 fan_0 snog_0 #PB#RT 
+Topic 2: #1dfact_1 harry_0 liam_1 louis_1 made_0 twitter_1 accounts_0 22nd_1 years_0 months_0 #PB#RT 
+Topic 4: #1dfact_1 whilst_1 boys_0 london_1 dungeous_1 harry_1 held_1 louis_1 hand_0 #PB#RT 
+Topic 4: #1dfact_1 louis_1 feels_1 bit_0 harry_1 comfort_1 #PB#RT 
+Topic 3: #1dfacts_0 harry_0 waiting_1 passionate_1 kiss_0 rain_1 awww_0 #PB#RT 
+Topic 4: #1dfact_1 harry_1 louis_1 give_1 fan_0 real_1 kiss_0 #PB#RT 
+Topic 4: #1dfact_1 zayn_0 means_1 beautiful_1 arabic_1 woww_1 face_0 voice_0 beautiful_1 #PB#RT 
+Topic 4: #1dfacts_0 louis_1 love_1 harry_1 bye_0 phone_0 harry_1 annoyed_1 make_1 #PB#RT 
+Topic 0: boys_1 home_0 tomorrow_1 zayn_0 home_0 eid_0 muslim_0 celebration_1 #PB#RT 
+Topic 4: conversation_1 killers_1 lol_1 idk_0 yeah_0 nm_1 #PB#RT 
+Topic 4: #ivealwayswantedto_1 turn_1 big_0 chair_0 expecting_1 #PB#RT 
+Topic 0: #ivealwayswantedto_1 taxi_1 follow_0 car_0 #PB#RT 
+Topic 2: wah_0 batt_0 life_1 left_0 #PB#PO 
+Topic 0: plain_0 emotionless_1 #PB#RE 
+Topic 4: #niallfact_0 thing_1 direction_0 niall_0 #PB#RT 
+Topic 1: #1dquotes_1 we're_0 bestfriends_0 -zayn_1 #PB#RT 
+Topic 4: time_1 pigeon_1 nice_1 it'll_1 shit_1 car_0 #believeme_1 #PB#RT 
+Topic 4: gonna_1 drink_0 smoke_1 promise_1 #PB#RT 
+Topic 2: #1dqoutes_1 harry_0 kissed_1 caroline_1 flack_1 harry_0 zayn_0 kiss_0 louis_1 goodbye_0 harry_0 #PB#RT 
+Topic 2: wearing_0 contacts_1 comfy_0 #PB#PO 
+Topic 2: gt_1 trng_1 camp_0 till_0 #PB#RE 
+Topic 4: people_1 stop_0 polluting_1 source_0 water_0 #PB#PO 
+Topic 1: bbq+koi+awesome_1 people=awesome_1 dinner_0 #PB#PO 
+Topic 4: spent_0 time_1 bunch_0 ppl_1 dinner_0 today_0 #PB#RT 
+Topic 4: find_0 girl_1 uphold_1 promise_1 long_0 sacrifies_1 alot_0 silence_0 #PB#RT 
+Topic 0: ekh_0 shit_1 didnt_0 noticed_0 takbir_1 #PB#RE 
+Topic 4: dear_0 year_0 teenage_0 girl_1 buying_0 pregnancy_0 test_0 make_1 test_0 fail_0 sincerely_0 prayi_1 #PB#RT 
+Topic 0: ikr_0 labz_1 labz_1 #PB#RE 
+Topic 2: ermm_0 nvr_0 cos_0 lajeez_1 borrow_0 ppls_1 cameras_1 yay_0 #PB#RE 
+Topic 2: #cancer's_0 hard_0 time_0 deciding_1 #PB#RT 
+Topic 4: spoke_0 mind_1 wouldn't_1 murdered_1 #PB#RT 
+Topic 0: person_0 hiccups_1 scared_0 shitless_1 #PB#RT 
+Topic 2: yez_1 babez_0 lurve_1 cambodia_1 #PB#RE 
+Topic 2: tweet_1 back_0 singapore_0 hate_0 wanna_0 back_0 cambodia_1 badly_0 d:_0 #PB#PO 
+Topic 2: fast_0 im_1 back_0 singapore_0 tmr_0 laughing_0 alot_1 days_0 dinner_0 #PB#RT 
+Topic 1: kan_1 kan_1 kan_1 aku_1 baru_1 cakap_1 kau_1 call_0 aku_1 jgak_1 kena_0 lancut_1 uh_0 sia_1 kau_1 bodoh_0 pe_0 tahu_1 ikut_1 dorang_1 raya_1 johor_1 sia_0 #PB#PO 
+Topic 1: omg_0 sia_1 lol_1 nanti_1 banyak_1 lelaki_1 terpikat_1 uh_0 #PB#RE 
+Topic 1: biar_1 laa_1 dia_1 agama_1 dia_1 agama_1 dia_1 agama_1 kita_1 agama_1 kita_1 macam_1 disebutkan_1 di_1 surah_1 al-kafirun_1 #PB#RE 
+Topic 1: telekung_1 eh_0 pernah_1 pakai_1 mum_0 nyer_1 tudung_0 cantik_1 #PB#RE 
+Topic 1: ye_0 laa_1 kita_1 tk_1 cakap2_1 pape_1 dia_1 kluarkan_1 dah_1 ni_1 macam_1 peh_1 extend_0 dia_1 nak_1 aku_1 putihkan_1 dia_1 macam_1 mj_1 pe_0 sia_1 black_0 white_0 #PB#RE 
+Topic 1: eh_0 sini_1 laa_1 mari_1 laa_1 kul_1 brape_1 nak_1 turun_1 #PB#RE 
+Topic 1: telekung_1 kain_1 kapan_1 #PB#RE 
+Topic 1: glerr_1 punya_1 olang_1 inalillah_0 ke_1 apa_1 nak_1 mati_1 sgt_1 ke_1 #PB#RE 
+Topic 1: mass_0 tin_1 ke_1 mash_0 tin_1 #PB#RE 
+Topic 1: kutuk_1 islam_1 boleh_1 abeh_1 kau_1 dasar_1 keling_1 ketiak_1 bau_1 thosai_1 dahi_1 ada_1 sniper_1 punya_1 red-dot_1 rambut_1 banyak_1 kutu_1 hitam_1 nak_1 mampos_1 pon_1 kita_1 diam_1 #PB#PO 
+Topic 1: sleep_0 days_0 farhat_1 huda_1 ajak_1 lepak_1 till_0 6am_1 tonight_0 anwar_1 pulak_1 ajak_1 hardcore_0 #PB#PO 
+Topic 0: dream_0 stop_0 chase_0 live_0 #ldm_1 #PB#ME 
+Topic 4: care_1 ur_0 religion_1 pity_0 malays_1 rushing_0 mosque_0 free_0 sheep_0 yeah_0 forgot_0 malays_1 money_0 #PB#RT 
+Topic 1: kalau_1 wa_1 nampak_0 dia_1 senang_1 je_1 wa_0 cium_1 dia_1 ;p_1 #PB#ME 
+Topic 4: waiting_0 door_1 open_1 pushing_0 #PB#PO 
+Topic 4: place_0 shouldn't_1 texted_0 #PB#PO 
+Topic 1: day_0 rot_0 home_0 gg_0 anywherr_1 raya_1 haji_1 #PB#PO 
+Topic 1: siak_1 uh_0 boleh_1 mengamok_1 sia_1 gini_1 #PB#PO 
+Topic 1: gavin_1 antonio_1 kan_1 joke_0 fail_0 kambing_0 goat_0 sheep_0 hah_1 #PB#RT 
+Topic 0: facts_0 dislike_0 racism_1 #PB#RT 
+Topic 0: utter_1 word_0 feeling_0 thinking_0 point_1 time_0 #PB#PO 
+Topic 1: nanti_1 kau_1 call_0 aku_1 pulak_1 tkde_1 mood_0 nak_1 angkat_1 kau_1 salahkan_1 aku_1 #PB#PO 
+Topic 4: small_0 stupid_1 conversations_1 #PB#ME 
+Topic 1: call_0 tk_1 angkat_1 msg_0 tk_1 reply_0 perangai_1 pe_0 sia_1 #PB#PO 
+Topic 1: orang_1 kalau_1 dah_1 tanak_1 nak_1 buat_1 ape_1 kan_1 #PB#PO 
+Topic 2: disappoint_0 today_1 follow_0 wanted_1 meet_0 nvrm_1 leave_0 #PB#PO 
+Topic 1: ibu_1 follow_0 jb_0 wanna_0 leave_0 tsk_0 sia_1 #PB#PO 
+Topic 1: kalau_1 call_0 tak_1 angkat_1 msg_0 tk_1 reply_0 terpajsa_1 laa_1 aku_1 pergi_1 meeting_0 #PB#PO 
+Topic 1: farhat_1 stupid_0 sia_0 guy_0 lepak_1 stadium_1 jerk_0 #PB#PO 
+Topic 1: lazy_0 uh_0 nak_1 balek_1 #PB#PO 
+Topic 1: farhat_1 stupid_0 sia_0 guy_0 lepak_1 stadium_1 jerk_0 #PB#PO 
+Topic 0: else's_1 dad_0 dad_0 #PB#PO 
+Topic 1: kat_1 belakang_1 pon_1 jadi_1 laa_1 boleh_1 kira_1 uban_1 asalkan_1 bukan_1 sebelah_1 dorang_1 sudah_1 #PB#PO 
+Topic 1: eksyen_1 omg_0 heart_0 throbbing_0 sei_1 tuhan_0 saje_1 yang_1 tahu_1 #PB#RE 
+Topic 3: talking_0 dad_0 huh_0 huh_0 huh_0 #PB#RE 
+Topic 1: apasal_1 laa_1 muka_1 awak_1 garang_1 semacam_1 #PB#PO 
+Topic 1: tukar_1 tempat_1 sia_0 gini_1 seraaam_1 niih_1 #PB#PO 
+Topic 1: ya_1 allah_0 dah_1 dua_1 kali_1 siol_0 duduk_1 sebelah_1 aku_1 time_0 sembahyang_1 raya_1 sumpah_1 muka_1 garang_1 gilerrrr_1 #PB#PO 
+Topic 1: shaved_1 moustache_1 beard_0 goatee_1 yesterday_0 today_0 tajam2_1 spiders_1 legs_0 sia_1 #PB#PO 
+Topic 1: siak_1 uh_0 baju_1 kurung_0 big_0 sia_1 wore_0 real_0 tight_0 time_0 #PB#PO 
+Topic 1: lepak-ed_0 farhat_1 huda_1 3an_1 till_0 home_0 showered_1 sembahyang_1 raya_1 kat_1 stadium_1 ada_1 ke_1 tk_1 eh_0 #PB#PO 
+Topic 1: haah_1 huda_1 farhat_1 ajak_1 lepak_1 blk_0 let's_0 #PB#PO 
+Topic 3: rtv_1 reading_0 matter_0 ignore_1 haiyaa_1 #PB#ME 
+Topic 2: where's_0 where's_0 late_0 night_0 talks_0 busy_0 stuffs_0 dying_0 tryna_0 #PB#PO 
+Topic 4: hey_1 scared_0 start_1 story_0 #PB#PO 
+Topic 1: shuttttup_0 laaa_1 turtle_0 siak_1 uh_0 #PB#RE 
+Topic 1: suka2_1 je_0 laa_1 harm_0 #PB#RE 
+Topic 1: fine_0 tetap_1 tk_1 glam_1 sia_1 #PB#RE 
+Topic 1: tak_1 style_0 sia_1 tortoise_1 timah_0 goodness_0 #PB#ME 
+Topic 4: idk_0 follow_0 uncle_0 #PB#RE 
+Topic 1: tak_1 style_0 sia_0 turtle_0 timah_0 tortoise_1 cool_0 shits_0 #PB#RT 
+Topic 0: leaving_0 leaving_0 indon_1 noe_1 m'sia_1 sign_0 earn_1 living_0 s'pore_1 #PB#PO 
+Topic 4: wtf_0 sia_0 dont_1 call_1 timah_1 laa_0 #PB#RE 
+Topic 1: malam_1 ah_0 bro_0 takkan_1 raya_1 sampai_1 malam_1 #PB#RE 
+Topic 1: merepek_1 je_1 encik_1 sabrina_1 ni_1 #PB#RE 
+Topic 1: make_0 sblum_1 malaysia_1 lepak_1 session_0 #PB#RT 
+Topic 1: siak_1 uh_0 bro_0 aku_1 leaving_0 kl_0 monday_0 besok_1 lepak_1 #PB#RE 
+Topic 1: ouh_0 pm_0 tv3_1 show_0 adi_1 jadi_1 orang_1 cacat_0 huak_1 huak_1 huak_1 #PB#ME 
+Topic 0: blk_1 number_0 lame_0 #PB#PO 
+Topic 4: dear_0 girls_1 broken_1 heart_1 guys_1 glue_1 guns_1 sincerely_0 #PB#RT 
+Topic 4: feel_1 awkward_1 damn_0 hard_1 #PB#ME 
+Topic 2: back_0 tahlil_1 ate_0 agar2_1 gedil_1 smthng_1 super_0 niceeee_0 hate_0 agae2_0 sia_0 ate_0 green_0 #PB#PO 
+Topic 2: reach_0 home_0 waiting_0 cousin_0 mother's_0 side_1 #PB#PO 
+Topic 1: guess_0 wat_0 father's_1 side_0 tkde_1 pon_1 lauk_1 hari_1 raya_1 kite_0 makan_1 steam_1 boat_0 dunno_0 spell_0 #PB#PO 
+Topic 4: ouh_0 wait_0 watch_0 movie_0 back_0 home_0 change_1 #PB#PO 
+Topic 2: watch_0 movie_0 wearing_0 kebaya_1 great_0 #PB#PO 
+Topic 4: girls_0 smoke_1 attractive_0 #PB#RT 
+Topic 1: adik_1 aku_1 nye_1 rambut_1 kalau_1 spike_1 depan_1 rambut_1 die_0 tk_1 blh_1 straight_0 ke_1 atas_1 nampak_0 senget_1 messy_0 ade_1 uh_0 tapi_1 handsome_0 #PB#PO 
+Topic 1: wah_0 kat_1 malaysia_1 ade_1 malay_0 version_0 k-pop_0 call_0 m-pop_1 lol_1 #PB#PO 
+Topic 2: fringe_0 damn_0 long_1 december_0 cut_0 #PB#PO 
+Topic 4: gonna_1 curl_0 hair_0 hand_0 #PB#PO 
+Topic 2: gd_1 morning_0 today_1 wearing_0 purple_1 kebaya_1 #PB#PO 
+Topic 0: eh_1 didnt_0 esok_1 holiday_1 #PB#RT 
+Topic 1: gd_1 nite_0 world_0 selamat_1 hari_1 raya_1 aidil_1 adha_1 #PB#PO 
+Topic 4: rt-_1 stalk_0 someone's_1 profile_0 twitter_0 follow_0 #PB#RT 
+Topic 1: maksud_1 kau_1 kakak_0 kau_1 berlakon_1 o.o_0 #PB#RE 
+Topic 2: monday_0 watch_1 footloose_1 #PB#PO 
+Topic 0: mum_0 clean_1 room_1 cousin_0 dinner_0 room_1 dinner_0 o_0_0 #PB#RT 
+Topic 0: retweet_1 miss_0 school_0 #PB#RT 
+Topic 4: parents_0 problem_0 influence_0 friends_1 make_0 bad_1 #PB#RT 
+Topic 1: minahrep_1 matrep_1 ni_1 semue_1 kalau_1 ditanye_1 reply_1 parents_0 #PB#RT 
+Topic 4: stop_1 making_0 parents_0 excuse_1 stupid_1 behavior_0 they've_1 taught_0 hav_0 #PB#RT 
+Topic 1: feel_0 phone_0 vibrating_0 checked_0 eehk_0 tak_1 der_1 msg_0 pon_1 #PB#RT 
+Topic 0: coke_0 favorite_0 drink_0 dunno_0 ice_1 lemon_0 tea_0 coke_0 heh_0 #PB#PO 
+Topic 1: #aktivitirempit_1 naik_1 motorsikal_1 buat_1 aksi_1 superman_1 batman_1 spiderman_1 kluang_1 man_0 ingat_1 macam_1 cool_0 lah_1 eh_0 kalau_1 accident_0 #PB#RT 
+Topic 1: aku_1 lapar_1 nk_1 makan_1 #PB#PO 
+Topic 0: likes_0 complain_0 food_1 lar_1 lar_1 rite_0 tomorrow_1 big_0 day_0 #PB#RT 
+Topic 0: beer_1 drink_0 root_0 beer_1 #PB#RT 
+Topic 1: hari_1 ni_1 nenek_1 aku_1 masak_1 lauk_1 rendang_0 lauk_1 lemak_0 babat_1 lol_1 wat_0 lemak_0 babat_1 #PB#PO 
+Topic 1: tmrw_0 gonna_0 antisocial_1 father's_1 side_0 #PB#PO 
+Topic 1: sblah_1 bapak_1 slalu_1 kate_1 suruh_1 aku_1 senyum_1 kirekan_1 muke_1 aku_1 tkde_1 happy_1 sblah_1 bapak_1 aku_1 pon_1 tk_1 tau_1 tu_1 psl_1 antisocial_1 senyap_1 je_0 #PB#PO 
+Topic 1: cousin_0 sblah_1 bapak_1 aku_1 semue_1 laki_1 aku_1 sorg_1 je_1 tau_1 ponpuan_1 mane_1 tk_1 boring_0 bile_1 ngn_1 sblah_1 bapak_1 aku_1 blh_1 jadi_1 antisocial_1 sia_0 #PB#PO 
+Topic 1: makan_1 carnival_1 starts_0 tomorrow_0 #PB#RT 
+Topic 4: parents_0 understand_1 teenager's_1 life_1 #PB#RT 
+Topic 1: asl_1 la_0 time_0 hari_1 raya_1 haji_1 gi_1 sblah_1 ayah_1 je_1 dahla_1 hari_1 raya_1 puasa_1 pon_1 1st_0 gi_1 sblah_1 ayah_1 boring_0 siot_1 #PB#PO 
+Topic 1: merepek_1 nye_1 friend_0 requests_0 accept_0 firssttt_1 famous_0 ass_0 cares_0 #PB#RT 
+Topic 4: hope_0 people_1 won't_1 forget_1 greatness_1 judge_0 #PB#PO 
+Topic 0: wicked_1 ordered_1 afternoon_1 hi-tea_1 set_0 pump_0 combat_1 combo_1 #tcc_1 #PB#PO 
+Topic 0: rain_1 insisted_0 laze_1 home_0 routine_1 morning_0 run_0 changi_1 beach_1 #PB#PO 
+Topic 0: robert_1 pattinson_1 watched_0 twilight_0 3rd_0 time_1 #twilightbreakingdawn_1 #PB#PO 
+Topic 0: #4wordsaftersex_1 clean_1 mess_0 #PB#PO 
+Topic 0: #4wordsaftersex_1 feel_1 horny_0 #PB#PO 
+Topic 0: #4wordsaftersex_1 let's_0 round_0 #PB#PO 
+Topic 0: white_0 house_1 u.s._1 government_0 contact_0 extraterrestrials_1 #PB#RT 
+Topic 0: wifi_1 muackss_1 taiwan_1 awesomeee_1 #PB#PO 
+Topic 0: changi_1 airport_1 bye_0 twitter_0 #PB#PO 
+Topic 3: thks_1 babe'll_1 missya_1 omg_0 cec_1 blast_0 hun_1 seeyaaaa_1 cec_1 back_0 yup_1 god_0 bless_0 #PB#RT 
+Topic 4: thought_1 closed_0 stupid_1 guy_1 backstage_0 pass_0 refused_0 lend_1 #PB#RE 
+Topic 4: thing_1 damn_0 cool_0 wanted_1 d:_0 wanted_1 force_0 open_1 backstage_0 door_0 #PB#RE 
+Topic 0: jump_0 stage_0 extension_1 tempted_0 #PB#RE 
+Topic 4: yuri_0 tired_1 mucore_1 #PB#PO 
+Topic 2: wanted_0 fans_0 onstage_1 security_1 guard_1 #PB#RE 
+Topic 4: wah_0 lucky_0 pfft_1 key_0 people_1 2nd_0 3rd_0 floor_0 #PB#RE 
+Topic 0: sadist_1 t-t_1 #PB#RE 
+Topic 4: key_0 dera_1 suki_1 da_1 nagoya_1 dialect_0 caused_1 fans_0 #PB#RT 
+Topic 4: swcsg_1 omg_1 onew_1 fan_0 cry_1 swcsg_1 #PB#RT 
+Topic 4: omg_1 didnt_0 omg_0 onew_1 fan_0 cry_0 swcsg_1 #PB#RT 
+Topic 2: security_1 person_0 wouldn''t_1 cam_0 #PB#RE 
+Topic 1: lol_0 time_0 didn't?_1 thought_0 #PB#RE 
+Topic 1: return_0 sis_0 shinee_0 #PB#PO 
+Topic 0: shinee_0 takes_1 concert_1 #PB#RE 
+Topic 1: tsk_0 buy_0 tickets_0 place_0 #PB#RE 
+Topic 1: ohhh_1 black_0 market_0 tsk_0 #PB#RE 
+Topic 3: tickets_1 sold_1 sitting_0 #PB#RE 
+Topic 4: sound_1 singaporean_0 fat_1 die_0 #PB#RE 
+Topic 4: #twitterpeopleilove_1 yup_0 lurb_1 #PB#ME 
+Topic 0: idk_0 eh_1 guy_0 helping_0 rits_1 spy_1 #PB#RE 
+Topic 0: rits_1 fb_0 page_0 exciting_0 coming_0 line_0 #PB#RE 
+Topic 0: omg_0 people_1 singing_0 ai_1 theme_0 song_0 loudly_0 downstairs_1 #PB#PO 
+Topic 0: rits_1 ohshit_0 meant_0 exciting_0 #PB#RE 
+Topic 0: b.e.d.o.k_1 bodies_0 drowned_0 killed_0 #PB#RT 
+Topic 3: likes_0 pin_0 key_0 ground_0 tickle_1 face_0 turns_0 purple_1 jongkey_1 work_0 #jonghyunfacts_1 #PB#RT 
+Topic 4: give_1 bigger_1 version_0 dp_0 #PB#RE 
+Topic 0: huh_0 taekey's_1 vcr_1 snsd's_0 concert_1 #PB#RE 
+Topic 4: edward_1 cullen_1 drives_1 car_0 #PB#PO 
+Topic 0: pay_0 taekey_1 3min_0 vcr_1 #PB#RE 
+Topic 0: cool_0 mr_1 ahmad's_1 black_0 macbook_1 twilight_0 #PB#ME 
+Topic 0: lol_0 snsd's_1 concert_1 taekey_1 vcr_1 #PB#PO 
+Topic 4: admits_0 scared_0 jonghyun's_0 dog_0 byulroo_1 bites_0 finger_1 swear_0 cry_1 #PB#RT 
+Topic 0: key_0 forever_0 sweet_0 swear_0 #PB#PO 
+Topic 3: shinee_1 member_0 fever_0 key_0 stay_0 night_0 care_1 matter_0 tired_0 cont_1 #PB#RT 
+Topic 2: 2pm_0 hands_0 ad_0 tv_0 #PB#PO 
+Topic 3: here's_1 snsd_0 concert_1 video_1 featured_1 taemin_1 key_0 watch_0 wrong_0 sg_0 play_0 thing_0 http_1 #PB#RT 
+Topic 0: spanks_0 minho_0 forgets_0 homework_0 #keyfacts_1 #PB#RT 
+Topic 1: okok_1 offline_0 wait_0 dp_0 #PB#RE 
+Topic 4: love_0 maknaes_0 yeah_1 taemin_1 krystal_1 seohyu_1 kyuhyun_1 dongho_1 mir_0 minwoo_1 #PB#RT 
+Topic 2: #facts_0 minho_0 wrote_0 rap_1 part_0 kiss_0 kiss_0 kiss_0 #PB#RT 
+Topic 4: #facts_0 onew_1 care_1 chicks_0 pretend_1 feed_1 letting_1 eat_0 food_0 #PB#RT 
+Topic 4: everytime_0 attempt_0 cut_0 hair_0 disaster_0 occur_1 #PB#RE 
+Topic 4: true_0 beliebers_0 fanbase_1 -coughs-_1 guys_1 haven't_0 met_1 kpoppers_1 #PB#RT 
+Topic 4: beliebers_0 fanbase_1 -coughs-_1 guys_1 haven't_0 met_1 kpoppers_1 #PB#PO 
+Topic 0: eh_1 nice_0 rite_0 yar_0 nice_0 alr_1 #sosingaporean_1 #PB#RT 
+Topic 4: beliebers_0 fanbase_1 agreed_1 specifically_0 they're_1 fanbase_1 annoying_1 everyo_1 #PB#RT 
+Topic 1: thought_0 time_0 started_0 cos_0 confessed_1 csjh's_1 dana_1 #PB#RE 
+Topic 1: growing_0 hair_0 till_0 ankles_1 #PB#RE 
+Topic 4: wondering_0 bias_0 undergo_1 plastic_0 surgery_1 #kpoprealizations_0 #PB#RT 
+Topic 4: weird_1 krys_0 #PB#RE 
+Topic 3: noona_1 fans_1 calling_0 bias_0 oppa_1 they're_1 older_0 #kpoprealizations_0 disturbing_0 #PB#ME 
+Topic 4: sky_0 fine_0 tweet_0 ed_1 #PB#PO 
+Topic 4: sky_0 fine_0 facebook_1 edition_0 #PB#PO 
+Topic 4: conversation_1 turns_0 argument_0 conversation_1 #PB#PO 
+Topic 1: amazing_0 air_0 zam_1 zam_1 runs_0 #PB#RE 
+Topic 4: maggi_1 goreng_0 mamak_1 #dinner_1 #PB#PO 
+Topic 4: charge_0 abt_0 hrs_1 day_0 madness_0 #PB#RE 
+Topic 2: #ios5_0 eats_1 batt_0 faster_0 days_0 hrs_1 experience_0 #iphone_0 #PB#PO 
+Topic 0: 2y.o_0 vainpot_1 home_0 wanna_0 carry_0 bag_1 pink_0 slippers_1 #PB#PO 
+Topic 1: aku_1 rasa_1 banyak_1 banyak_1 perayaan_1 hari_1 raya_1 aidilfitri_1 adha_1 yg_1 paling_1 meriah_0 aku_1 bangga_1 jadi_1 org_1 muslim_0 #PB#RT 
+Topic 0: 530am_0 #shuffling_1 location_1 morning_0 settled_0 hubz_1 cmg_0 back_0 lunch_0 3pm_0 started_0 cooking_0 #PB#PO 
+Topic 1: #preschoolers_1 showered_1 lunch_0 managed_0 put_0 2y.o_0 anissa_1 nap_0 ilhan's_1 #nowwatching_1 playhouse_1 jr._1 nap_0 #PB#PO 
+Topic 0: high_0 maintenance_1 cost_0 living_0 dollar_0 sign_0 end_0 #PB#RE 
+Topic 0: inspired_0 post_0 effect_1 tag_1 pls_0 #PB#RE 
+Topic 4: tempting_0 start_1 home_0 business_0 #PB#RE 
+Topic 2: crowded_0 previous_1 year_0 arrangements_0 made_0 crowded_0 session_0 3rd_1 ur_1 ard_0 #PB#RE 
+Topic 0: nap_0 desperately_0 home_0 sweet_0 home_0 pasir_1 ris_1 st_1 #PB#PO 
+Topic 2: scrapbooking_1 fun_0 tedious_1 requires_0 lots_0 creativity_0 #PB#RE 
+Topic 2: salam_0 aidiladha_0 neighbour_1 #PB#RE 
+Topic 4: rites_1 fast_0 smooth_0 alhamdulilah_1 year_0 kambing_0 #PB#RE 
+Topic 3: paid_1 korban_0 overseas_0 #PB#RE 
+Topic 0: session_0 1030am_1 mrng_1 #PB#RE 
+Topic 4: enjoy_1 long_0 weekend_0 orchard_0 night_0 sad_1 xmas_0 lighting_1 wasn't_1 lit_1 #PB#RE 
+Topic 0: terasa_0 resah_1 gelisah_1 inginkan_1 ketenangan_1 #PB#PO 
+Topic 0: distributing_0 daging_1 korban_1 nearest_0 relatives_0 ard_0 tampines_1 pasir_1 ris_1 area_0 #PB#PO 
+Topic 1: kena_0 marah_1 diam_1 5minit_1 pas_1 tu_1 start_0 running_0 ard_0 fening_1 kepala_1 happy_1 working_0 fifie_1 #PB#RE 
+Topic 1: lepas_1 kena_0 marah_1 dgn_1 volunteer_0 baru_1 nak_1 dok_0 diam_1 #PB#PO 
+Topic 1: mintak_1 kena_0 halao_1 running_0 #PB#RE 
+Topic 4: accompanies_1 pils_1 korban_0 mil_1 cried_0 sacrificial_1 rites_1 mind_1 #PB#PO 
+Topic 4: heaven_0 sambal_1 udang_1 mak_0 #PB#RT 
+Topic 3: warned_0 entering_1 area_0 #PB#RE 
+Topic 0: sayu_1 mendengar_1 para_1 penyembelih_1 kambing_0 bertakbir_0 sebelom_0 memulakan_1 ibadah_1 korban_1 speechless_1 #PB#PO 
+Topic 1: photography_1 allowed_0 slaughtering_1 area_0 #PB#PO 
+Topic 2: awaiting_1 lamb_1 slaughtered_1 fun_1 running_0 #PB#PO 
+Topic 4: witnessing_1 sacrificial_1 rites_1 #PB#PO 
+Topic 0: darul_1 ghufran_1 mosque_0 tampines_1 avenue_1 singapore_0 tampines_1 singapore_1 #PB#PO 
+Topic 2: hot_1 milo_0 bread_0 tuna_1 breakfast_0 #PB#PO 
+Topic 0: happy_0 eid_0 al-adha_1 feast_1 sacrifice_0 muslims_1 taqabbal_1 allah_0 minna_0 wa_1 minkum_1 allah_0 accept_0 good_0 dee_0 #PB#RT 
+Topic 4: love_1 love_1 #PB#RT 
+Topic 4: salam_0 aidiladha_0 fam_0 witnessing_1 sacrificial_1 rites_1 bringing_1 kids_1 masjid_1 #PB#RE 
+Topic 0: night_0 raining_0 hearing_0 raindrops_1 a/c_1 unit_0 window_0 hubz_1 ready_0 work_0 fever_0 allah_0 protect_0 #PB#PO 
+Topic 0: hubz_1 fever_0 coughing_0 badly_0 insists_1 work_1 tomorrow_1 fed_1 medicine_0 #PB#PO 
+Topic 4: allah_0 pls_0 pains_1 husband_1 kids_1 pass_0 burdens_0 bear_0 suffer_1 #PB#PO 
+Topic 0: home_0 sweet_0 home_0 pasir_1 ris_1 st_1 #PB#PO 
+Topic 0: salam_0 aidiladha_1 muslims_1 #singapore_0 #PB#PO 
+Topic 4: hugged_0 monkey_1 sleep_1 night_0 #PB#PO 
+Topic 1: rs_1 ccao_1 av_1 tribune_1 lol_1 rs_1 :p_1 #PB#RE 
+Topic 4: ear_0 pierced_0 #ivealwayswantedto_1 #PB#PO 
+Topic 4: fault_0 mine_1 blame_1 #PB#PO 
+Topic 0: uncomfortable_1 silence_0 knowing_0 express_0 opinion_0 #ihatethis_1 #PB#PO 
+Topic 2: siblings_1 traditional_1 clothes_1 gaaaah_0 #awkward_1 #PB#PO 
+Topic 2: super_1 hyper_0 mood_0 state_0 #idontknow_1 #PB#PO 
+Topic 4: train_0 platform_1 head_0 bobbing_1 hips_1 shaking_1 butt_1 rocking_0 #nowlistening_1 papi_1 lo_0 #PB#PO 
+Topic 4: teach_0 cos_0 time_0 papi_1 lo_0 played_0 wanna_1 move_1 bodey_0 shake_0 lil_0 bootey_1 #iwannadance_1 #PB#PO 
+Topic 4: day_1 sacrifice_0 remembered_1 #PB#PO 
+Topic 4: true_0 90s_0 kid_0 remember_1 #PB#RT 
+Topic 0: official_0 cat_0 feeding_0 station_1 launched_1 singapore_1 #PB#PO 
+Topic 0: queenstown_1 park_1 railway_1 land_0 #PB#PO 
+Topic 3: full_0 q&a_1 a-g_1 speaks_0 1st_1 year_0 job_0 part_0 ii_0 #PB#PO 
+Topic 3: full_0 q&a_1 a-g_1 speaks_0 1st_0 year_0 job_1 part_0 #PB#PO 
+Topic 4: government's_0 reversal_1 backing_0 cng_0 cars_0 disappointing_1 #PB#PO 
+Topic 4: shocked_0 kl's_1 decision_1 protect_0 immigration_0 officer_1 involved_0 nude_1 squat_1 incident_0 #PB#PO 
+Topic 0: rising_0 interest_1 rates_1 hit_0 housing_1 demand_0 #PB#PO 
+Topic 0: singtel's_1 fibre_1 services_1 hit_0 network_1 glitch_1 #PB#PO 
+Topic 3: countries_1 adapt_1 hyper-connected_1 environment_1 pm_0 lee_1 #PB#PO 
+Topic 4: impossible_0 craft_0 policies_0 singaporeans_1 singaporeans_1 #PB#PO 
+Topic 0: pissed_0 work_1 internet_0 #PB#PO 
+Topic 2: hope_0 rains_0 heavily_0 #PB#PO 
+Topic 4: left_0 pages_0 finish_0 tmr_1 time_1 sleep_1 good_1 night_0 ppl_1 #PB#PO 
+Topic 4: ways_1 mad_1 changing_0 plans_0 minute_0 #PB#RT 
+Topic 0: twitter_0 battery_1 liao_1 byebye_1 #PB#PO 
+Topic 4: #nowplaying_0 tears_1 ft_1 island_0 #PB#PO 
+Topic 1: okok_1 fin_0 le_1 sms/tweet_1 ur_0 thr_1 collect^^_1 #PB#RE 
+Topic 1: yoohoo~_1 fin_0 reading_0 #PB#RE 
+Topic 3: #nowplaying_0 bad_0 tablo_1 ft_1 jinsil_0 #PB#PO 
+Topic 4: borrow_0 ps_1 love_1 alison_0 #PB#PO 
+Topic 2: dk_0 whr_1 find_0 leh_0 sch_1 gt_1 la_0 goin_0 back_0 sch_0 holiday_0 anymore_0 #PB#RE 
+Topic 2: finishing_0 power_0 read_0 #PB#PO 
+Topic 2: whattheshit_0 stupid_1 batt_0 nvm_0 play_0 songs_1 act_0 guaikia_1 read_0 books_0 today_1 nights_1 ppl(in_1 advance)_1 #PB#PO 
+Topic 0: battery_1 flat_1 nooooo~_0 #PB#PO 
+Topic 1: wooooo_0 hope_0 rains_1 heavily_1 night_0 #iloverain_1 #PB#RT 
+Topic 4: la_0 bad_1 la_1 bet_1 stand_0 open_1 mouth_0 talk_1 china_0 accent_0 #PB#RE 
+Topic 0: ikr^^_1 part_0 dropped_0 apple_1 dfggdfgsdfdfghd_1 #PB#RE 
+Topic 4: ew_1 shit_1 baidu_0 gash_1 #PB#PO 
+Topic 0: find_0 tk_0 sw_1 mn_1 gimme_0 crap_0 #PB#PO 
+Topic 4: tot_1 ruining_1 jeremy's_1 cute_0 role_0 makes_1 blood_0 boil_0 #PB#RE 
+Topic 0: ya_0 china_0 lousy_1 mah_1 #PB#RE 
+Topic 2: guy_0 taking_0 jeremy_1 er_0 #PB#PO 
+Topic 1: bot_1 rights_1 alr_0 smth_1 cos_0 japan_0 made_0 jap_1 ver_1 yb_1 alr_1 #PB#RE 
+Topic 0: imagine_1 zll_1 watching_0 china_0 channels_1 #PB#RE 
+Topic 1: yeah_0 reacction_1 yucks_0 #PB#RE 
+Topic 4: yeah_1 ew_1 man_0 #PB#RE 
+Topic 1: good_0 job_0 jap_1 version_0 crappy_1 #PB#PO 
+Topic 4: ew_1 confirmed_1 china's_0 making_0 china_0 version_0 beautiful_1 #PB#PO 
+Topic 4: video_0 reason_1 punctuation_1 bbc_0 news_0 blooper_1 funniest_0 jeremyhillman_1 #PB#PO 
+Topic 4: video_0 punctuation_1 important_1 stickfigureparades_1 #PB#PO 
+Topic 4: ppl_0 view_1 world_1 small_0 screen_0 #PB#RE 
+Topic 4: jus_0 watched_1 cut_0 cucumbers_1 someone's_1 head_0 man_0 cruel_1 entertainment_0 #omg_1 #PB#ME 
+Topic 3: video_1 inspiring_1 teacher_0 vittorio_1 costantini_0 corningmuseumofglass_1 #edvid_0 #PB#PO 
+Topic 2: video_1 hates_0 twitter_1 #PB#ME 
+Topic 4: comedian_0 louis_1 c.k._1 hates_0 twitter_0 follow_0 video_1 #PB#RT 
+Topic 0: analogy_0 teacher_1 fire-breathing_0 dragon_0 slayer_1 #echat_1 #edbook_1 #PB#RE 
+Topic 0: teach_0 #edchat_1 #edbook_1 #PB#ME 
+Topic 4: education_0 consists_1 unlearned_0 #PB#ME 
+Topic 0: yeah_0 finnish_1 lessons_1 book_0 stock_0 #edchat_1 #edbook_1 #PB#RE 
+Topic 4: hey_1 ship_0 singapore_0 #PB#RE 
+Topic 0: finnish_1 school_0 education_1 news_0 #PB#RT 
+Topic 0: heard_0 dear_0 sir_1 #PB#RE 
+Topic 4: important_1 occupy_0 movement_1 online_0 behavior_0 offline_0 voice_0 #PB#RT 
+Topic 2: hey_1 dave_1 requested_1 join_0 group_0 #PB#RE 
+Topic 0: interesting_0 concept_0 def_0 link_0 #edchat_1 #PB#RE 
+Topic 4: selling_0 2x_1 tix_0 artemis_1 fac_0 outing_0 cos_0 smth_1 cropped_1 min_0 dont_1 tweet_0 emai_1 #PB#RT 
+Topic 2: picking_0 katy_1 perry_1 lady_1 gaga_1 katy_1 perry_1 butcher_0 words_0 repetition_0 #PB#PO 
+Topic 4: yup_0 wanna_0 start_1 classes_0 #PB#RE 
+Topic 1: modernizing_1 baju_1 kurung_0 pair_0 kain_1 songket-inspired_1 vest_1 skinnies_1 thoughts_0 #PB#PO 
+Topic 4: panic_1 sinner_1 lolol_0 stfu_0 #PB#RE 
+Topic 4: wear_0 topshop_1 leggings_0 musical_0 year_0 #PB#ME 
+Topic 2: yah_0 forgot_0 kids_1 super_0 advanced_1 omg_1 kids_1 nowadays_0 annoying_1 leh_0 phones_1 #fail_0 #PB#RE 
+Topic 0: aww_0 iphone_1 ahahha_1 #PB#RE 
+Topic 1: hey_1 sell_0 iphone_0 #PB#RE 
+Topic 0: wanna_0 sell_1 3gs_0 #PB#PO 
+Topic 2: sit_0 pray_0 piece_0 muddy_1 canvas_1 #PB#PO 
+Topic 0: management_1 alkaff_0 mosque_0 good_0 #PB#PO 
+Topic 2: poly_1 ns_1 swear_0 #PB#RE 
+Topic 2: ill_1 friend_0 im_1 pig_1 #PB#RE 
+Topic 4: thought_1 talk_0 talk_1 #PB#RE 
+Topic 4: minute_0 break_1 memories_0 short_0 time_1 #PB#PO 
+Topic 3: photo_1 absolute_0 perfection_0 #PB#ME 
+Topic 4: lmao_0 time_1 kental_1 #PB#ME 
+Topic 2: qian_1 hao_1 main_0 focal_1 point_0 pic_1 check_0 nicki_1 minaj_1 ass_0 spot_0 #PB#PO 
+Topic 4: pissed_0 drunk_1 night_0 #PB#ME 
+Topic 4: hope_0 anonymous_1 fails_0 facebook_0 facebook_1 life_1 memories_0 #PB#PO 
+Topic 3: gonna_0 spend_0 night_0 thousands_1 photos_1 tagged_1 #PB#PO 
+Topic 2: keeping_0 cordial_1 hiding_1 lot_1 deep_0 inside_0 #PB#PO 
+Topic 2: removing_1 part_0 easy_0 putting_0 making_0 makes_0 sounds_0 cum_1 bersome_1 #PB#RE 
+Topic 0: read_0 wisdom_1 waffle_0 wit_1 #PB#RE 
+Topic 0: noe_1 studying_0 history_1 mah_1 hardworking_1 playing_1 lols_1 #PB#RE 
+Topic 1: support_0 man_0 city_0 match_0 #PB#RE 
+Topic 3: amos_1 times_0 don_0 show_1 ur_0 dick-_1 #PB#RE 
+Topic 0: counted_1 don_0 wan_1 win_1 trash_1 purpose_1 life_0 #PB#RE 
+Topic 0: fierce_1 older_0 suddenly_1 word_0 respect_1 flashes_0 mind_1 jkjk_1 #PB#RE 
+Topic 2: ordering_0 controller_1 beat_1 time_0 asshole_0 #PB#RE 
+Topic 2: reach_0 1000th_1 tweet_1 #PB#PO 
+Topic 2: buy_0 play_0 fifa_1 watch_1 family_0 outing_0 oversea_1 work_0 date_0 sleep_1 #PB#RE 
+Topic 0: body_0 found_0 bedok_1 reservoir_1 certified_1 singapore_1 attraction_1 #PB#RT 
+Topic 0: introduced_1 dwarf_1 nudist_1 colony_1 shook_1 pleasure_1 mine_0 #PB#RT 
+Topic 4: car_0 cat_1 car_0 cat_0 backwards_1 #mindblown_1 #PB#RT 
+Topic 2: mermaid_1 wear_0 sea_0 shells_1 couldn't_0 fit_0 shells_1 #PB#RT 
+Topic 4: cool_0 life_1 made_0 decisions_0 #PB#RT 
+Topic 4: yeah_0 wtf_1 cyanide_1 happiness_1 long_0 put_0 shorts_0 #PB#RT 
+Topic 4: left_0 handed_1 gloves_1 hand_0 #PB#RT 
+Topic 4: weed_1 drug_1 plant_1 dealer_1 florist_0 #PB#RT 
+Topic 4: mate_0 asked_0 knew_0 abbreviations_1 number_0 #PB#RT 
+Topic 4: feet_0 device_0 finding_0 lego_1 dark_1 #PB#RT 
+Topic 4: freak_0 lah_0 single_1 picture_0 asks_1 wrong_1 stare_1 suspect_1 screamer_0 #PB#RT 
+Topic 1: damn_0 cool_0 anu_1 #PB#RE 
+Topic 4: feel_1 bad_1 kids_1 wheelchairs_0 bet_1 pushed_0 lot_1 #PB#RT 
+Topic 2: renewed_1 op_0 slides_1 officially_0 chio_0 time_0 add_0 animations_1 tmr_0 #PB#PO 
+Topic 2: god_0 raining_0 night_1 awesome_0 #PB#PO 
+Topic 2: super_0 ultra_0 fast_0 cockroach_0 nymph_1 ability_1 fly_0 nymph_1 ninja_1 #PB#RE 
+Topic 2: wah_0 fuck_0 room_0 ninja_1 cockroach_0 nymph_1 mum_0 gonna_1 batshit_1 #PB#PO 
+Topic 4: duh_0 give_0 watching_0 twilight_0 boring_0 dreamland_1 #PB#RT 
+Topic 4: annoying_1 moment_1 temple_0 run_0 jump_0 slid_1 #PB#RT 
+Topic 4: give_0 greek_1 man_0 scratchcard_1 coin_1 scratch_1 #PB#RT 
+Topic 4: heard_1 justin_1 bieber_1 baby_1 father_0 #PB#RT 
+Topic 0: adhoc_1 clap_1 clap_1 clapclap_1 clap_1 #PB#RT 
+Topic 0: gerard_1 tableception_1 ah_0 table_0 table_0 #PB#RT 
+Topic 0: wet_0 biscuit_1 strikes_1 again~_1 #PB#RE 
+Topic 4: awwwwwww_1 running_0 smiles_1 #PB#RE 
+Topic 4: hais_1 where's_0 reply_0 #PB#PO 
+Topic 4: sponges_1 smart_0 absorb_1 #PB#RT 
+Topic 0: hate_0 wifi_1 cpr_0 #PB#PO 
+Topic 4: met_0 life_1 changed_0 #PB#RT 
+Topic 0: cge_1 ligo_1 lang_1 ako_1 #PB#RE 
+Topic 4: posted_0 la_1 photocabine_0 #PB#PO 
+Topic 2: nike_1 sb_1 janoski_1 wino_1 #PB#PO 
+Topic 2: ate_0 alot_1 hours_1 coma_0 #PB#RE 
+Topic 4: erm_0 yea_0 bowl_0 rice_0 pei_1 kang_0 kong_1 won't_0 hurt_1 #PB#RE 
+Topic 1: burn_0 food_0 ate_0 lol_0 #PB#RE 
+Topic 2: fml_0 power_0 failure_0 lift_1 working_0 #PB#PO 
+Topic 0: yea_0 damn_0 heng_1 #PB#RE 
+Topic 4: shiok_1 waiting_0 bus_0 #PB#RE 
+Topic 2: woohoo_0 bus_1 fyea_1 #PB#RE 
+Topic 4: walk_0 back_0 home_0 buses_0 left_0 siol_1 #PB#RE 
+Topic 4: lol_1 yea_1 telling_0 lollll_1 #PB#RE 
+Topic 4: damn_0 bus_0 siol_1 #PB#RE 
+Topic 3: omg_0 arsenal_1 owning_0 wba_1 #gooner4life_1 #PB#PO 
+Topic 0: smell_0 chomp_1 chomp_1 #PB#PO 
+Topic 4: respect_1 people_1 make_1 promise_1 respect_1 people_1 #tls_1 #PB#RT 
+Topic 3: pizza_0 hut_1 lunch_0 family~_1 #PB#ME 
+Topic 4: love_1 music_0 thing_1 hasn't_0 walked_0 needed_1 #PB#RT 
+Topic 4: finally_1 peace_0 quiet_1 #PB#PO 
+Topic 0: back_0 home_0 event_1 downstairs_1 zzz_0 noisy_0 crazy_1 #PB#PO 
+Topic 4: dad_0 makes_1 things_1 awkward_0 #PB#PO 
+Topic 4: wanted_0 turn_1 big_0 chair_0 expecting_1 #PB#RT 
+Topic 2: err_0 good_0 idea_0 real_1 person's_0 email_1 #PB#RE 
+Topic 3: #youknowyoureagleekwhen_1 glee/glee_1 characters/glee_1 actors_1 made_0 create_0 twitter_0 account_0 #PB#RT 
+Topic 4: giving_0 work_0 dresses_0 clear_1 space_0 cupboard_1 #PB#PO 
+Topic 2: fitted_1 orange_1 dress_1 #PB#RE 
+Topic 0: secret_0 date_0 leh_1 #PB#RE 
+Topic 0: awesome_0 breakfast_1 marina_0 square's_0 tasting_1 room_1 epicurious_1 #PB#PO 
+Topic 4: life_1 good_1 long_0 weekends_0 pretending_1 saturday_0 today_1 #PB#PO 
+Topic 1: selfish_0 ac_1 young_0 girrrrrrrrl_1 #PB#RE 
+Topic 3: haw_1 par_0 villa_1 zomg_1 srsly_0 starbuckszz_1 #PB#RE 
+Topic 3: codename_0 super_0 effective_0 #PB#RE 
+Topic 4: lol_1 time_1 read_1 notes_0 offends_1 throw_0 #fail_0 msg_0 wna_1 absorb_1 alcohol_0 power_0 #PB#RE 
+Topic 3: honestly_0 haven't_0 started_0 tomorrow_0 touch_0 tues_1 morning_0 wanna_0 join_1 #PB#RE 
+Topic 1: stressed/angry_1 lm_0 lolll_1 #PB#RE 
+Topic 0: spideyman_1 bo_0 jio_1 #PB#RE 
+Topic 4: poison_1 unnecessary_1 background_0 noise_0 #PB#PO 
+Topic 4: time_0 poison_1 life_1 #PB#PO 
+Topic 4: people_1 fml_0 fuck_1 life_1 #PB#RT 
+Topic 2: sat_0 h1_1 econs_1 remedial_0 dear_0 #PB#RE 
+Topic 2: coz_1 2nd_0 paper_0 16th_0 nov_0 paper_0 29th_0 start_0 playing_1 16th_1 le_0 #PB#RE 
+Topic 1: effectively_0 end_0 16th_0 nov_0 #PB#RE 
+Topic 4: sleeping_1 jia_0 days_0 #PB#RE 
+Topic 0: long_0 moo_1 feel_1 weird_0 room_0 moo_1 tuesday_0 paper_0 starts_0 #PB#RE 
+Topic 0: point_0 headlines_0 reservoir_1 discovered_1 bedok_1 graveyard_0 #PB#RT 
+Topic 0: prayer_0 pocket_1 light_0 -the_1 rescuers_0 #PB#RT 
+Topic 0: strong_0 give_0 work_1 rewarded_1 chron_1 #PB#RT 
+Topic 3: ikea_0 meal_0 window_1 shopping_0 trip_1 papers_0 end_0 #PB#RE 
+Topic 4: bio_0 geog_0 x.x_0 lot_1 things_1 memorise_1 #PB#RE 
+Topic 2: chem_0 maths_0 cll_1 h1_1 econs_1 #PB#RE 
+Topic 0: fever_0 temperature_1 fluctuates_1 temperature_1 drops_0 stop_0 resting_1 #PB#RE 
+Topic 2: eh_0 mine_0 effectively_0 ends_0 16th_1 yay_0 #PB#RE 
+Topic 4: hoho~_1 jia_0 levels_1 check_0 time_0 #PB#RE 
+Topic 4: care_1 sleep_1 important_0 eat_0 fruits_0 #PB#RE 
+Topic 0: performances_1 year_0 yep_0 year_0 continue_1 performing_0 beautiful_0 sunday_0 #PB#RE 
+Topic 2: miss_0 checking_0 smb_1 #PB#RE 
+Topic 4: understand_0 pains_1 pms_0 glad_1 feel_1 #PB#RE 
+Topic 4: jus_0 wanna_1 make_1 alil_1 obvious_0 #PB#RE 
+Topic 2: orange_1 red_0 bright_0 #PB#RE 
+Topic 3: card_0 love_1 receive_1 cards^^_1 #PB#ME 
+Topic 1: monday_0 gonna_0 dye_0 hair_0 watch_0 movie_0 lo_1 heh_0 #PB#RE 
+Topic 1: awww_0 attends_1 sat_0 svc_1 #PB#RE 
+Topic 1: coming_0 svc_1 tmr_0 #PB#RE 
+Topic 3: wah_0 late_0 serving_1 jacq_1 #PB#RE 
+Topic 2: movies_0 date_1 sg_0 #PB#RE 
+Topic 0: jer_1 jb_0 cinema_1 #PB#RE 

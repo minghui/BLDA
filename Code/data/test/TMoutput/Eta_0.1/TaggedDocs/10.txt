@@ -1,0 +1,174 @@
+Topic 0: thirsty_1 beer_1 sque_0 singapore's_0 latest_0 beer_1 shrine_0 emmanuel_1 stroobant_1 #PB#PO 
+Topic 0: expect_0 wok_1 barrel_1 #PB#ME 
+Topic 0: love_0 mod_1 s'pore_1 cuisine_1 shaping_1 eh_0 singapore_1 lah_0 #PB#PO 
+Topic 0: short_0 break_0 back_0 grind_0 garden_1 eden_0 modern_0 european_1 beautiful_0 #PB#PO 
+Topic 0: pastor_1 city_0 harvest_0 church_0 sighted_1 garden_1 eden_0 apt_0 #PB#PO 
+Topic 4: compliment_1 desiree_1 lady_1 inspired_0 pizza_0 #PB#RE 
+Topic 3: here's_1 welcoming_1 twitterville_1 #PB#ME 
+Topic 0: surely_1 duck_1 foie_1 gras_1 sourced_0 locally_1 force-fed_1 ducks_0 #PB#RE 
+Topic 3: owned_0 folks_1 villa_1 samadhi_1 #PB#RE 
+Topic 3: cuisine_1 eco-friendly_1 venue_1 completely_1 surrounded_1 lush_1 foliage_1 #PB#RE 
+Topic 1: recycled_1 wood_1 sourced_1 fr_0 malay_0 kampungs_1 wood_1 bamboo_0 furn_1 crafted_1 native_1 orang_1 asli_1 community_0 #PB#RE 
+Topic 0: eco_1 located_1 labrador_1 park_1 #PB#RE 
+Topic 0: amazed_1 eco_1 gourmet_1 cafe_1 opened_0 january_0 escaped_1 media_1 attention_0 piece_0 bali_1 sgp_0 #PB#PO 
+Topic 4: love_1 join_0 experiment_1 #PB#RE 
+Topic 4: guess_0 people_1 money_0 afford_1 poor_0 folks_1 sleeping_1 streets_0 wd_1 love_1 trade_1 time_1 #PB#RE 
+Topic 3: wow_0 sounds_0 delish_1 #PB#RE 
+Topic 3: imagine_0 peachy_1 taste_0 profile_0 magical_0 leaves_1 #PB#RE 
+Topic 4: btw_0 le_0 chateaubriand_1 highest_1 ranking_1 french_0 restaurant_1 world_1 #PB#PO 
+Topic 4: le_0 chateaubriand_1 inaki_1 aizpitarte_1 dressing_0 life_1 editor_0 business_0 times_0 #PB#PO 
+Topic 0: brinj_1 patrick_0 zhang_1 defunct_1 azhang_0 cheong_1 chin_0 nam_0 road_1 #PB#PO 
+Topic 3: love_1 clang_1 excellent_1 profile_0 wolfgang_1 puck_0 celebrity_0 chef_1 independent_0 #PB#RT 
+Topic 3: shanghai's_1 historic_1 bund_1 #PB#RE 
+Topic 0: sampling_1 la_1 barca's_1 refined_0 italian_1 fare_0 gauge_1 restaurant_1 merits_1 packed_0 house_1 #PB#RE 
+Topic 3: hey_1 dashing_0 check_0 report_1 back_0 tomorrow_0 morning_0 #PB#ME 
+Topic 3: sharing_1 silver_1 kris_0 stories_0 feature_1 destinations_1 tweet_0 fare_0 promotions_0 #PB#RE 
+Topic 3: heard_1 antica_1 trattoria_1 botteganova_1 michele_1 sorrentino_1 sold_1 star_1 restaurant_1 recently_0 opened_0 la_0 barca_0 singapore_1 #PB#PO 
+Topic 3: congrats_0 cut_0 lunch_0 dinner_0 #PB#RE 
+Topic 1: place_0 time_0 happy_1 birthday_1 mervyn_1 #PB#RE 
+Topic 4: comment_0 le_0 chateaubriand_1 haven't_0 #PB#RE 
+Topic 3: article_1 sidney_1 morning_1 harald_1 #PB#RT 
+Topic 3: bunch_0 big_0 chefs_1 start_0 taking_0 bloody_0 #PB#RT 
+Topic 0: speechless_1 view_1 room_1 isfjorden_1 beautiful_0 places_0 planet_1 #PB#RE 
+Topic 1: saturne_1 compare_0 l'agape_1 substance_1 passage_1 rino_1 #PB#RE 
+Topic 3: stress_0 test_0 cramping_1 incredible_0 meals_1 night_0 trip_1 paris_0 #PB#PO 
+Topic 4: managed_0 snag_0 table_0 alain_1 ducasse_1 au_0 plaza_1 athenee_0 forward_0 essential_0 menu_0 apparently_0 stripped_0 ostentation_1 #PB#PO 
+Topic 3: gosh_0 easy_0 chart_1 read_0 #PB#RE 
+Topic 1: substance_1 saturne_1 complex_0 #PB#RE 
+Topic 2: omg_1 photo_0 write_0 piece_0 #PB#PO 
+Topic 3: live_1 shrimp_1 shell_1 ouch_0 #PB#RE 
+Topic 0: kilo_1 amazing_0 gps_0 strange_1 venue_1 industrial_1 building_0 #PB#RE 
+Topic 3: worry_0 fan_1 base_1 followers_0 #PB#RE 
+Topic 2: la_1 bigarrade_1 good_0 #PB#PO 
+Topic 3: paul_0 cafe_0 restaurant_1 france_1 coming_0 ngee_1 ann_1 city_0 #PB#RT 
+Topic 0: kilo_1 kampong_0 bugis_1 #PB#PO 
+Topic 0: amazing_0 italian_1 restaurants_1 sprouting_0 island_0 #PB#RE 
+Topic 3: amen_0 btw_0 found_0 party_1 spot_0 #PB#RE 
+Topic 3: otto_1 to-eat_0 list_0 made_0 #PB#RE 
+Topic 4: la_1 barca_0 review_1 #PB#ME 
+Topic 0: kilo_1 kampong_0 bugis_1 interesting_0 food_0 sgp_0 find_0 year_0 guess_0 location_1 #PB#PO 
+Topic 0: joel_1 robuchon_0 sgp_0 sept_0 time_1 robuchon's_1 menu_1 decouverte_0 #PB#PO 
+Topic 3: wonders_1 santamaria's_1 thoughts_0 lima_1 declaration_1 laughing_0 ass_0 somewh_1 #PB#RT 
+Topic 3: wonders_1 santamaria's_1 thoughts_0 lima_1 declaration_1 laughing_0 ass_0 somewh_1 #PB#RT 
+Topic 3: cnn_1 cafe_0 opens_0 seoul_1 cnngo.com_1 #PB#PO 
+Topic 0: stopped_0 school_1 write_0 book_0 #PB#PO 
+Topic 3: fair_0 bit_0 print_0 morning_0 notion_1 foods_1 aphrodisiacs_1 cobblers_1 #PB#RT 
+Topic 0: daughter_0 texture_0 zucchini_1 pancake_1 soggy_1 hashbrown_1 salt_1 pepper_0 nice_0 #PB#RE 
+Topic 0: zucchini_1 pancake_1 letdown_1 kilo_1 #PB#RE 
+Topic 0: spot_0 fancy_0 finding_0 restaurant_1 tucked_1 industrial_1 bldg_1 blah_1 turned_0 wow_0 esp_0 seafood_1 ceviche_1 arrived_0 #PB#RE 
+Topic 3: here's_1 sgp_0 chef_0 cares_0 environment_1 tho_0 make_1 lima_1 #PB#ME 
+Topic 3: thierry_1 marx_1 sur_1 mesure_0 list_0 #PB#RE 
+Topic 3: realized_0 mop_1 geroge_1 v)_1 month_0 guess_0 #PB#RE 
+Topic 3: rich_0 heritage_1 luxury_1 shophouse_1 rooms_0 lovely_0 peranakan_0 touch_0 #PB#RT 
+Topic 3: heard_1 credit_1 card_0 table_0 booking_0 #PB#RE 
+Topic 0: wok_1 barrel_1 eco_1 gourmet_1 cafe_1 la_0 barca_0 kilo_1 restaurant_1 #PB#PO 
+Topic 0: italian_1 restaurant_1 town_1 amo_1 ang_1 moh_1 goodness_0 sake_0 #PB#PO 
+Topic 0: swing_1 sgp_0 herbal_1 peppery_1 rendition_0 bat_1 kut_1 teh_0 #PB#RE 
+Topic 3: hear_0 roar_1 f1_0 engines_1 home_0 tracks_0 #PB#PO 
+Topic 3: breaking_0 news_1 miss_0 ebbe_1 #PB#RE 
+Topic 3: ebbe_1 vollmer_1 jaan_0 chef_1 opened_0 resto_1 malmo_1 sweden_0 brother_0 www.vollmers.nu_1 #PB#RT 
+Topic 3: mind_0 translating_1 tweet_0 #PB#RE 
+Topic 3: understand_0 tweet_0 carries_1 familiar_0 chef_1 luv_0 #PB#RE 
+Topic 0: caprese_1 naturally_0 alluring_1 #PB#RE 
+Topic 0: capri_1 singapore_1 italian_1 eatery_1 brought_0 iannones_0 #PB#PO 
+Topic 0: chef_0 guide_0 york_1 #PB#ME 
+Topic 0: singapore_1 we'll_0 founder_0 bak_1 kut_1 teh_0 #PB#RE 
+Topic 3: checking_0 amber_1 landmark_1 mandarin_1 #PB#RE 
+Topic 0: delighted_1 discover_1 fab_1 brasserie_1 singapore_1 dempsey_1 brasserie_1 excellent_1 onion_1 soup_1 tarte_0 tartin_0 #PB#PO 
+Topic 2: shashlik_1 borsch_1 soup_1 lah_1 #PB#RE 
+Topic 4: easily_1 judge_0 character_0 man_0 treats_1 goethe_1 #PB#RT 
+Topic 3: give_0 credit_1 photographer_0 #PB#RE 
+Topic 0: posted_0 photos_0 facebook_0 album_0 dempsey_1 brasserie_1 #PB#PO 
+Topic 3: tears_1 found_0 chef_1 ebbe_1 vollmer_1 jann_1 chef_1 here's_1 toast_1 dear_0 ebbe_1 opening_0 resto_1 #PB#ME 
+Topic 3: omg_0 sounds_0 deliciously_1 ott_1 #PB#RE 
+Topic 0: check_0 price_0 greenwood_1 market's_1 oyster_1 nite_0 costly_0 bet_1 #PB#RE 
+Topic 0: return_0 lukes_1 #PB#RE 
+Topic 0: yup_0 pls_0 include_0 lukes_1 heard_0 costly_0 #PB#RE 
+Topic 0: gosh_0 lukes_1 travis_1 masiero_1 #PB#RE 
+Topic 0: baba_1 dining_1 lounge_0 sri_1 panwa_1 sunset_0 drinks_0 #PB#RE 
+Topic 4: slayed_1 jimmy_1 monkey_1 cafe_0 #PB#RE 
+Topic 0: fall_0 sick_0 pays_1 restaurateur's_1 friend_1 #PB#RE 
+Topic 0: singaporean_0 starbucks_1 comfy_0 sofas_1 coffee_1 #PB#RE 
+Topic 0: loysel's_1 toy_0 cafe_1 highlanders_1 oriole_0 cafe_1 #PB#RE 
+Topic 0: behalf_0 cnngo_1 sgp_0 editor_0 local_1 blogs_0 read_0 regularly_1 #PB#PO 
+Topic 3: happily_0 married_0 land_0 line_0 worked_0 #PB#RE 
+Topic 1: wow_0 quick_0 lightning_0 drinks_0 #PB#RE 
+Topic 4: wow_0 met_0 love_1 twitter_0 emails_1 internet_0 remember_1 hp_0 ancient_1 hor_0 #PB#RE 
+Topic 4: meant_0 plaza_1 atheness_0 au_0 alain_1 ducasse_1 #PB#RE 
+Topic 0: heard_0 plaza_1 athenee's_1 stripped_0 essential_0 menu_1 #PB#RE 
+Topic 3: finalized_1 paris_0 itinerary_1 #PB#RE 
+Topic 1: time_0 indulgence_1 l'agape_1 substance_1 hottest_0 debut_1 paris_0 #PB#RE 
+Topic 0: wahoo_1 ferran_0 adria_1 dipping_1 spoon_1 mulligatawny_1 soup_1 funny_0 captured_0 #PB#RE 
+Topic 4: table_0 pls_0 le_0 chateaubriand_1 heard_1 mixed_1 comments_1 #PB#RE 
+Topic 0: time_1 put_0 la_1 barca_0 fast_0 dial_1 #PB#PO 
+Topic 2: longer_0 le_0 meurice_1 #PB#RE 
+Topic 0: thought_0 meii_1 sushi_1 value-for-$_1 omakase_1 sgp_0 discovered_1 hinoki_0 lawrence_0 chia_0 brother_0 ronnie_1 chia_0 tatsuya_1 #PB#PO 
+Topic 3: great_0 brain_0 cancer_0 support_0 fundraising_1 page_0 cure_1 life_0 foundation_0 walk4life'http://t_1 #PB#RT 
+Topic 3: posted_0 photos_0 facebook_0 album_0 hinoki_0 #PB#PO 
+Topic 0: cup_1 kopi_1 luwak_1 kopi_1 beans_1 #PB#PO 
+Topic 0: purchase_1 kopi_1 luwak_1 #PB#PO 
+Topic 0: love_1 gajalee_1 specialize_0 seafood_1 haven't_0 meats_0 #PB#RE 
+Topic 0: antoinette_0 penhas_1 road_1 intimate_0 venue_1 chill_0 coffee_1 pastries_1 strange_1 location_1 singapore_1 casket_1 #PB#PO 
+Topic 0: triple_0 three's_1 japanese-themed_1 buffet_0 complete_0 tourist_1 trap_0 #PB#PO 
+Topic 3: heard_0 toby's_1 estate_0 science_0 lab_0 #PB#RE 
+Topic 3: borrow_0 ur_0 drill_0 #PB#RE 
+Topic 4: smiles_1 managed_0 snag_0 table_0 pierre_1 gagnaire_1 #PB#PO 
+Topic 1: celebrity_0 photography_1 based_0 sweden_0 #PB#RE 
+Topic 0: english_1 chinese_0 time_1 #PB#RE 
+Topic 4: fine_0 print_0 understand_1 brazillian_1 #PB#RE 
+Topic 4: miles_1 mailed_1 today_0 questions_0 fwd_1 reply_0 #PB#RE 
+Topic 2: bring_0 ur_0 wife_0 antoinette_0 love_1 #PB#RE 
+Topic 3: fair_0 xchange_1 dpding_1 heavy_0 duty_1 ur_0 drill_0 lol_0 #PB#RE 
+Topic 0: coffee_1 joints_1 checkout_1 #PB#RE 
+Topic 0: cockcroach_1 sighted_1 italian_1 restaurant_1 nite_0 floor_1 plate_1 #PB#PO 
+Topic 0: chinatown_1 lots_0 restaurants_1 craig_1 keong_0 saik_0 #PB#RE 
+Topic 3: shd_0 forage_1 ebbe_1 #PB#RE 
+Topic 0: abt_0 duxton_1 hill_0 bukit_1 timah_0 #PB#RE 
+Topic 1: happy_1 offer_1 suggestions_1 #PB#RE 
+Topic 0: beautiful_0 tea_1 salon_1 equally_1 gorgeous_0 pastries_1 match_0 #PB#RE 
+Topic 2: guess_0 hear_0 fr_1 back_0 #PB#RE 
+Topic 2: awaiting_1 ur_1 reply_0 #PB#RE 
+Topic 0: hotel_0 fort_1 canning_0 gorgeous_0 rooms_0 marble-clad_1 bathrooms_0 soak-with-a-view_1 #PB#PO 
+Topic 0: unusual_0 earthquake_1 bali_1 running_0 tweeting_0 #PB#RE 
+Topic 1: hoho_1 eastern_1 bias_0 #PB#RE 
+Topic 0: photos_0 earthquake_1 rattles_0 bali_1 #PB#RT 
+Topic 3: wad_1 kidding_0 wldn't_1 expect_0 translate_1 entire_0 document_0 #PB#RE 
+Topic 3: ramen_1 achieves_0 celebrity_0 status_0 momofuku_1 spoilt_1 singapore_1 ramen_1 shores_1 #PB#RE 
+Topic 0: food_1 umm_0 over-rated_1 #PB#RE 
+Topic 0: posted_0 photos_0 facebook_0 album_0 pantry_1 stables_1 #PB#PO 
+Topic 0: amount_0 buy_1 lovely_0 dinner_0 singapore_0 #PB#RE 
+Topic 3: pat_1 bruno_1 resto_1 critic_1 forced_0 sun-times_1 recently_0 brain_0 cancer_0 excellent_1 read_0 #PB#RT 
+Topic 0: dying_0 back_0 btw_0 nearby_0 casket_1 haven_1 #PB#RE 
+Topic 2: guess_0 hotel_1 sgp_0 literally_0 row_0 fr_1 bath_0 tub_0 bed_0 #PB#PO 
+Topic 3: cool_0 wait_0 read_0 #PB#RE 
+Topic 4: hey_1 completed_1 story_0 dun_0 reply_1 #PB#RE 
+Topic 0: appalling_0 owned_0 emmanuel_1 stroobant_1 #PB#RE 
+Topic 0: exceptional_1 find_0 piece_0 bali_1 singapore_1 #PB#PO 
+Topic 0: chef_0 armin_0 leitgeb_1 les_1 amis_1 restaurants_1 #PB#PO 
+Topic 0: told_1 good_0 coffee_1 joints_1 check_0 time_1 #PB#RE 
+Topic 0: japanese/russian_1 taste_0 wise_0 #PB#RE 
+Topic 4: bring_0 kids_1 staycation_1 sgp_0 #PB#PO 
+Topic 0: read_0 family_0 friendly_1 hotels_0 sgp_0 cnngo_1 #PB#RE 
+Topic 0: amazing_0 dining_1 room_1 paris_0 la_0 cuisine_1 le_1 royal_0 monceau_0 designed_1 philip_1 stark_0 #PB#PO 
+Topic 0: room_1 view_0 eiffel_1 tower_1 shangrila_1 paris_0 cool_0 #PB#PO 
+Topic 4: interesting_0 conclusion_1 met_0 pierre_1 gagnaire_1 yesterday_0 berlin_0 #PB#RE 
+Topic 0: steve_1 jobs_1 sister_1 reveals_1 words_0 #PB#RT 
+Topic 3: breaking_0 news_1 sph_1 buys_1 acp_0 magazines_1 #PB#PO 
+Topic 0: light_0 end_0 tunnel_0 flickering_1 #PB#PO 
+Topic 2: gg_1 home_0 hour_1 chore_1 head_0 exploding_1 #PB#PO 
+Topic 3: faith_0 belief_1 god_0 belief_1 god_0 amen_0 #PB#ME 
+Topic 0: keeping_0 scores_0 bedok_1 reservoir_1 blk_1 686b_1 woodlands_1 #PB#RT 
+Topic 4: wanted_1 morning_1 productively_1 tired_1 cold_1 sleep_1 #PB#PO 
+Topic 3: watch_1 video_1 nag_1 #PB#PO 
+Topic 2: ctw_1 damn_0 annoying_1 commenting_0 personal_0 hygiene_1 #PB#PO 
+Topic 4: rains_0 hardest_1 people_1 deserve_0 sun_0 sighhh_1 true_0 #PB#ME 
+Topic 4: friend_1 quiet_1 means_0 #PB#RT 
+Topic 2: worrying_1 abt_0 dear_0 rmb_0 eat_0 panadol_1 drink_0 water_0 sleep_1 early_0 #PB#RE 
+Topic 0: nx_0 week_0 ba_1 monday_0 thursday_0 ba_1 #PB#RE 
+Topic 0: wah_0 lao_1 eh_1 bad_1 #PB#RE 
+Topic 4: woah_0 ppl_0 falling_1 sick_0 pls_0 good_1 care_0 scared_1 germs_1 #PB#PO 
+Topic 4: scariest_1 thing_1 distance_0 they'll_1 miss_0 forget_1 #PB#RT 
+Topic 0: good_0 call_0 kk_0 #PB#RE 
+Topic 0: scour_1 internet_0 scholarships_1 #PB#RE 
+Topic 4: #spotfixing_1 butt_0 guilty_0 conspiracy_1 cheat_0 accept_1 corrupt_0 payments_1 asif_0 guilty_0 conspiracy_1 cheat_0 #PB#RT 
+Topic 3: neil_1 based_1 malaysia_1 #PB#RE 

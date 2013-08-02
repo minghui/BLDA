@@ -1,0 +1,8 @@
+topics: 5
+alpha: 10
+beta: 0.01
+betab: 0.01
+gamma: 20
+iteration: 100
+saveStep: 2
+saveTimes: 20

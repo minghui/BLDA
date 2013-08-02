@@ -1,0 +1,4 @@
+#PB#RT	3
+#PB#RE	2
+#PB#ME	0
+#PB#PO	1
