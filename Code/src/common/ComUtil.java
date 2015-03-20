@@ -468,14 +468,11 @@ public class ComUtil {
 	}
 
 	public static int sample(float[] p, int T) {
-		float []pt = new float[T];
-		//System.out.print(p[0]);
+		float[] pt = new float[T];
 		pt[0] = p[0];
 		for (int i = 1; i < T; i++) {
-			pt[i] = p[i] + pt[i-1];
-			//System.out.print(" " + pt[i]);
+			pt[i] = p[i] + pt[i - 1];
 		}
-		//System.out.println();
 
 		// scaled sample because of unnormalized p[]
 		double rouletter = (double) (Math.random() * pt[T - 1]);
@@ -484,7 +481,23 @@ public class ComUtil {
 			if (pt[sample] > rouletter)
 				break;
 		}
-		//System.out.println(rouletter + "\t" + sample);
+		return sample;
+	}
+
+	public static int sample(double[] p, int T) {
+		double[] pt = new double[T];
+		pt[0] = p[0];
+		for (int i = 1; i < T; i++) {
+			pt[i] = p[i] + pt[i - 1];
+		}
+
+		// scaled sample because of unnormalized p[]
+		double rouletter = (double) (Math.random() * pt[T - 1]);
+		short sample = 0;
+		for (sample = 0; sample < T; sample++) {
+			if (pt[sample] > rouletter)
+				break;
+		}
 		return sample;
 	}
 }
