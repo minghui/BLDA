@@ -33,7 +33,6 @@ import common.MatrixUtil;
 public class Model {
 	// document related parameters
 	// public Document Doc;
-	// public int N[]; // tweet size 1*U
 	public int T; // no of topics
 	public int U; // no of users
 	public int V; // vocabulary size
@@ -138,7 +137,6 @@ public class Model {
 			// update base;
 			base += Z[i].length + 1;
 		}
-//		ydata.clear();
 	}
 
 	private void processZdata(ArrayList<String> zdata) {
@@ -196,10 +194,8 @@ public class Model {
 			}
 		}
 		cleanTempPrmts(docs);
-		// update NW[V](y=0) NTW[T][W](y=1) NTI[T][M] NY[2] NUT[U][T]
 		computeTempPrmts(docs, Z, y);
 		computeSum(docs, T);
-		// outputErr(docs);
 		return true;
 	}
 
@@ -210,10 +206,8 @@ public class Model {
 		M = itemNo;
 
 		cleanTempPrmts(docs);
-		// update NW[V](y=0) NTW[T][W](y=1) NTI[T][M] NY[2] NUT[U][T]
 		computeTempPrmts(docs);
 		computeSum(docs, T);
-		// outputErr(docs);
 		return true;
 	}
 	
@@ -412,7 +406,6 @@ public class Model {
 							countCase2++;
 						}
 					}
-					// System.out.println(tmpValue);
 					// words
 					for (int tokenNo = 0; tokenNo < testDocs.get(docNo)
 							.getDocWords()[lineNo].length; tokenNo++) {
@@ -484,30 +477,14 @@ public class Model {
 	public void computeModelParameter() {
 		System.out.println("computing model parameters...");
 		for (int w = 0; w < V; w++) {
-			// add a high prior on stop words
-			// int factor = 1000;
-			// if(PBmodel.stopList.contains(w))
-			// vPhiB[w] = (float) ((NW[w] + betaB*factor) / (
-			// (NY[0] + (V + factor * PBmodel.stopList.size() -
-			// PBmodel.stopList.size()) * betaB)));
-			// else
-			// vPhiB[w] = (float) ((NW[w] + betaB) / (
-			// (NY[0] + (V + factor * PBmodel.stopList.size() -
-			// PBmodel.stopList.size()) * betaB)));
 			vPhiB[w] = (float) ((NW[w] + betaB) / (NY[0] + V * betaB));
 		}
 		for (int t = 0; t < T; t++) {
 			for (int w = 0; w < V; w++)
-				// vPhi[t][w] = (float) ((NTW[t][w] + beta) /
-				// (MatrixUtil.sumRow(
-				// NTW, t) + V * beta));
 				vPhi[t][w] = (float) ((NTW[t][w] + beta) / (SNTW[t] + V * beta));
 		}
 		for (int t = 0; t < T; t++) {
 			for (int m = 0; m < M; m++) {
-				// psi[t][m] = (float) ((NTI[t][m] + alpha) /
-				// (MatrixUtil.sumRow(
-				// NTI, t) + M * alpha));
 				psi[t][m] = (float) ((NTI[t][m] + alpha) / (SNTI[t] + M * alpha));
 			}
 		}
@@ -516,9 +493,6 @@ public class Model {
 		}
 		for (int u = 0; u < U; u++) {
 			for (int t = 0; t < T; t++) {
-				// theta[u][t] = (float) ((NUT[u][t] + eta) /
-				// (MatrixUtil.sumRow(
-				// NUT, u) + T * eta));
 				theta[u][t] = (float) ((NUT[u][t] + eta) / (SNUT[u] + T * eta));
 			}
 		}
@@ -565,8 +539,6 @@ public class Model {
 			boolean[][][] newY) {
 		for (int i = 0; i < U; i++) {
 			for (int j = 0; j < newZ[i].length; j++) {
-				// System.out.println("i:" + i + " newz:" + newZ[i][j]);
-				// System.out.println("NUT: " + NUT[i][newZ[i][j]]);
 				NUT[i][newZ[i][j]]++;
 			}
 			for (int j = 0; j < newY[i].length; j++) {
@@ -800,37 +772,16 @@ public class Model {
 								+ M * alpha + j));
 			}
 			pt[i] = p1 * p2 * p3;
-			// pt[i] = p2*p3;
 		}
 
 		// cummulate multinomial parameters
-		// System.out.println("0 \t" + pt[0]);
-		for (int i = 1; i < T; i++) {
-			pt[i] += pt[i - 1];
-			// System.out.println(i + "\t" + pt[i]);
-		}
-
-		// scaled sample because of unnormalized p[]
-		double rand = Math.random();
-		double rouletter = (double) (rand * pt[T - 1]);
-		int sample = 0;
-		for (sample = 0; sample < T; sample++) {
-			if (pt[sample] > rouletter)
-				break;
-		}
-		if (sample > T - 1) {
-			for (int i = 1; i < T; i++) {
-				System.err.print(pt[i] + "\t");
-			}
-			System.err.println(" rand: \t" + rouletter);
-			sample = (int) Math.round(Math.random() * (T - 1));
-		}
+		int sample = ComUtil.sample(pt, T);
+		assert (sample >= 0 && sample < T) : "sample value error:" + sample;
 
 		Z[u][n] = sample;
-
-		// update NTW[T][W](y=1) NTI[T][M] NUT[U][T] in {u,n}
 		topic = sample;
 
+		// update NTW[T][W](y=1) NTI[T][M] NUT[U][T] in {u,n}
 		NUT[u][topic]++;
 		SNUT[u]++;
 		for (int w1 = 0; w1 < tempUniqueWords.size(); w1++) {
@@ -880,52 +831,17 @@ public class Model {
 
 		double p0 = (double) (NY[0] + gamma) / (NY[0] + NY[1] + 2 * gamma);
 		double p2 = 1.0d;
-		// int factor = 1000;
-		// if(PBmodel.stopList.contains(word)) {
-		// p2 = (double) (NW[word] + betaB*factor) /
-		// (NY[0] + (V + factor * PBmodel.stopList.size() -
-		// PBmodel.stopList.size()) * betaB);
-		// }
-		// else
-		// p2 = (double) (NW[word] + betaB) /
-		// (NY[0] + (V + factor * PBmodel.stopList.size() -
-		// PBmodel.stopList.size()) * betaB);
 		p2 = (double) (NW[word] + betaB) / (NY[0] + V * betaB);
-		// long sum = 0l;
-		// for (int w = 0; w < NW.length; w++) {
-		// sum += NW[w];
-		// }
-		// if (sum != NY[0])
-		// System.err.println("error!!!");
 		double p3 = 1.0d;
 		double sumRow = SNTW[Z[u][n]];
-		// double sumRow = MatrixUtil.sumRow(NTW, Z[u][n]);
-		// checkEqual(sumRow, SNTW[Z[u][n]], "NTW");
 		p3 = (double) (NTW[Z[u][n]][word] + beta) / (sumRow + V * beta);
 
 		pt[0] = p0 * p2;
 		pt[1] = pt[0] + (1 - p0) * p3;
 
 		// cummulate multinomial parameters
-		// System.out.println("0 \t" + pt[0]);
-		// System.out.println("1 \t" + (pt[1] - pt[0]));
-
-		// scaled sample because of unnormalized p[]
-		double rouletter = (double) (Math.random() * pt[1]);
-		int sample = 0;
-		for (sample = 0; sample < 2; sample++) {
-			if (pt[sample] > rouletter)
-				break;
-		}
-		// System.out.println(rouletter + " sample: " + sample);
-
-		if (sample > 1) {
-			for (int i = 1; i < 2; i++) {
-				System.err.print(pt[i] + "\t");
-			}
-			System.err.println(" rand: \t" + rouletter);
-			sample = (int) Math.round(Math.random());
-		}
+		int sample = ComUtil.sample(pt, 2);
+		assert (sample >= 0 && sample < 2) : "sample value error:" + sample;
 
 		if (sample == 1) {
 			NY[1]++;
@@ -963,20 +879,6 @@ public class Model {
 				}
 			}
 		}
-	}
-
-	/**
-	 * read other file to get parameters
-	 */
-	protected boolean readOthersFile(String otherFile) {
-		return true;
-	}
-
-	/**
-	 * load saved model
-	 */
-	public boolean loadModel() {
-		return true;
 	}
 
 	/**
@@ -1153,11 +1055,9 @@ public class Model {
 				for (int k1 = 0; k1 < docs.get(i).getDocWords()[j].length; k1++) {
 					tmpline += uniWords.get(docs.get(i).getDocWords()[j][k1])
 							+ " ";
-					// docs.get(i).getDocWords()[j][k1] + " ";
 				}
 				for (int k2 = 0; k2 < docs.get(i).getDocItems()[j].length; k2++) {
-					tmpline += uniItems.get(docs.get(i).getDocItems()[j][k2]);
-					// + " " + docs.get(i).getDocItems()[j][k2] + " ";
+					tmpline += uniItems.get(docs.get(i).getDocItems()[j][k2])
 				}
 				datalines.add(tmpline);
 			}
