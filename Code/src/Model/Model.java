@@ -336,7 +336,7 @@ public class Model {
 						e.printStackTrace();
 					}
 				}
-				// compute the model parameter and perplexity
+				// compute the model parameter
 				computeModelParameter();
 			}
 
