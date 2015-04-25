@@ -338,7 +338,6 @@ public class Model {
 				}
 				// compute the model parameter and perplexity
 				computeModelParameter();
-				prep.add(computePrep(docs, startPos, testDocs));
 			}
 
 			for (int u = 0; u < U; u++) {
@@ -364,101 +363,6 @@ public class Model {
 					no++;
 				}
 		}
-	}
-
-	private double computePrep(ArrayList<Document> docs, int startPos,
-			ArrayList<Document> testDocs) {
-		double prepValue = 0.0d;
-		// double prep4docs[] = new double[docs.size()];
-		double valueD[] = new double[docs.size() - startPos];
-		int flagD[] = new int[docs.size() - startPos];
-		int countItems = 0;
-		int countWords = 0;
-		
-		for (int docNo = 0; docNo < docs.size() - startPos; docNo++) {
-			double valueT[] = new double[T];
-			int flag[] = new int[T];
-			
-			for (int t = 0; t < T; t++) {
-				int countCase1 = 0;
-				int countCase2 = 0;
-				
-				double thetaDT = this.theta[docNo + startPos][t];
-				double tmpValue = 1.0d;
-				double tmpValue2 = 1.0d;
-				
-				for (int lineNo = 0; lineNo < testDocs.get(docNo).getDocWords().length; lineNo++) {
-					// behaviors
-					for (int tokenNo = 0; tokenNo < testDocs.get(docNo)
-							.getDocItems()[lineNo].length; tokenNo++) {
-						// System.out.println(testDocs.get(docNo).getDocItems()[lineNo][tokenNo]);
-						int beh = testDocs.get(docNo).getDocItems()[lineNo][tokenNo];
-						double psiTB = this.psi[t][beh];
-						// psiTB * M to avoid double is not enough
-						tmpValue *= psiTB;
-						countItems++;
-						if(tmpValue < 1E-150) {
-							tmpValue = tmpValue*1E150;
-							countCase1++;
-						}
-						if(tmpValue > 1E150) {
-							tmpValue = tmpValue/1E150;
-							countCase2++;
-						}
-					}
-					// words
-					for (int tokenNo = 0; tokenNo < testDocs.get(docNo)
-							.getDocWords()[lineNo].length; tokenNo++) {
-						// System.out.println(testDocs.get(docNo).getDocItems()[lineNo][tokenNo]);
-						int word = testDocs.get(docNo).getDocWords()[lineNo][tokenNo];
-						double pw = this.vPhiB[word] * this.phi[0];
-						for(int topic = 0; topic < T; topic++) {
-							pw += this.phi[1]*this.vPhi[topic][word];
-						}
-						
-						tmpValue2 *= pw;
-						
-						if(tmpValue2 < 1E-150) {
-							tmpValue2 = tmpValue2*1E150;
-							countCase1++;
-						}
-						if(tmpValue2 > 1E150) {
-							tmpValue2 = tmpValue2/1E150;
-							countCase2++;
-						}
-						countWords++;
-					}
-				}
-				
-				valueT[t] = tmpValue * tmpValue2 * thetaDT;
-//				System.out.println(tmpValue + "\t" + tmpValue2 + "\t" + thetaDT + "\t" + valueT[t]);
-//				System.out.println(docNo + " " + t + "\t" + valueT[t] + "\t" + (countCase1 - countCase2));
-				flag[t] = countCase1 - countCase2;
-			}
-			
-			// compute sumd
-			int minFlag = MatrixUtil.min(flag);
-			double sumd = computeSumD(valueT, flag, minFlag);
-//			System.out.println("res d: " + sumd + "\t" + minFlag);
-
-			valueD[docNo] = sumd;
-			flagD[docNo] = minFlag;
-		}
-		
-//		for(int i = 0; i < valueD.length; i++) {
-//			System.out.println("V: " + valueD[i] + " flag:" + flagD[i]);
-//		}
-
-		int minFlag = MatrixUtil.min(flagD);
-		prepValue = (Math.log(computeSumD(valueD, flagD, minFlag)) + 
-				minFlag*(-150)*Math.log(10))/Math.log(2);
-		// - ( \sum_d log2 P(w,b|M) ) / ( \sum_d Nd )
-		double tmpres = - prepValue/(countItems + countWords);
-//		System.out.println(tmpres);
-
-		System.out.println("perplexity: " + Math.pow(Math.E, tmpres));
-		
-		return Math.pow(Math.E, tmpres);
 	}
 
 	private double computeSumD(double[] valueT, int[] flag, int minFlag) {
